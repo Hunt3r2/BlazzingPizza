@@ -3,6 +3,7 @@
 @inject OrderState OrderState
 @inject OrdersClient OrdersClient
 @inject NavigationManager NavigationManager
+@inject IJSRuntime JSRuntime
 
 <PageTitle>Blazing Pizza - Checkout</PageTitle>
 
@@ -31,6 +32,28 @@
 @code {
     bool isSubmitting;
 
+    protected override void OnInitialized()
+    {
+        // In the background, ask if they want to be notified about order updates
+        _ = RequestNotificationSubscriptionAsync();
+    }
+
+    async Task RequestNotificationSubscriptionAsync()
+    {
+        var subscription = await JSRuntime.InvokeAsync<NotificationSubscription>("blazorPushNotifications.requestSubscription");
+        if (subscription is not null)
+        {
+            try
+            {
+                await OrdersClient.SubscribeToNotifications(subscription);
+            }
+            catch (AccessTokenNotAvailableException ex)
+            {
+                ex.Redirect();
+            }
+        }
+    }
+
     async Task PlaceOrder()
     {
         isSubmitting = true;
@@ -38,9 +61,9 @@
         try
         {
             var newOrderId = await OrdersClient.PlaceOrder(OrderState.Order);
-        OrderState.ResetOrder();
-        NavigationManager.NavigateTo($"myorders/{newOrderId}");
-    }
+            OrderState.ResetOrder();
+            NavigationManager.NavigateTo($"myorders/{newOrderId}");
+        }
         catch (AccessTokenNotAvailableException ex)
         {
             ex.Redirect();
