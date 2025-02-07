@@ -1,22 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "8qdUrT0gOJM=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\david.lejo\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.0\\microsoft.aspnetcore.authorization.7.0.0.nupkg.sha512",
-    "C:\\Users\\david.lejo\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.0\\microsoft.aspnetcore.components.7.0.0.nupkg.sha512",
-    "C:\\Users\\david.lejo\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.0\\microsoft.aspnetcore.components.analyzers.7.0.0.nupkg.sha512",
-    "C:\\Users\\david.lejo\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.0\\microsoft.aspnetcore.components.forms.7.0.0.nupkg.sha512",
-    "C:\\Users\\david.lejo\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.0\\microsoft.aspnetcore.components.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\david.lejo\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.0\\microsoft.aspnetcore.metadata.7.0.0.nupkg.sha512",
-    "C:\\Users\\david.lejo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
-    "C:\\Users\\david.lejo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\david.lejo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\david.lejo\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
-    "C:\\Users\\david.lejo\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
-    "C:\\Users\\david.lejo\\.nuget\\packages\\microsoft.jsinterop\\7.0.0\\microsoft.jsinterop.7.0.0.nupkg.sha512",
-    "C:\\Users\\david.lejo\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512"
-  ],
-  "logs": []
+  "dgSpecHash": "fj9+AL47TGc=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\david.lejo\\source\\repos\\BlazzingPizza\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "No se puede leer la información del proyecto de \"BlazingPizza.Shared\": Identificador de marco de trabajo no válido \"\"."
+    }
+  ]
 }
