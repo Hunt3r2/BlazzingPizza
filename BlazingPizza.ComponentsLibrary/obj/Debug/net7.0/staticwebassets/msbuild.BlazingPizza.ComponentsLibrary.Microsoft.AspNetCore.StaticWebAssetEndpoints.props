@@ -1,0 +1,124 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/BlazingPizza.ComponentsLibrary/deliveryMap.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\deliveryMap.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4qsoQOGM6ENBpA4M40xXD/CRSKdVwbLuoKSw\u002BErGP1Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3278"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00224qsoQOGM6ENBpA4M40xXD/CRSKdVwbLuoKSw\u002BErGP1Q=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 14:18:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazingPizza.ComponentsLibrary/deliveryMap.ud3nbgpmep.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\deliveryMap.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ud3nbgpmep"},{"Name":"integrity","Value":"sha256-4qsoQOGM6ENBpA4M40xXD/CRSKdVwbLuoKSw\u002BErGP1Q="},{"Name":"label","Value":"_content/BlazingPizza.ComponentsLibrary/deliveryMap.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3278"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00224qsoQOGM6ENBpA4M40xXD/CRSKdVwbLuoKSw\u002BErGP1Q=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 14:18:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazingPizza.ComponentsLibrary/leaflet/images/layers-2x.ef5uc09gvw.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\images\layers-2x.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ef5uc09gvw"},{"Name":"integrity","Value":"sha256-Bm2sqFDY/77wB68AsG6sABVyje4nnFHzy2xxbffELt8="},{"Name":"label","Value":"_content/BlazingPizza.ComponentsLibrary/leaflet/images/layers-2x.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1259"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Bm2sqFDY/77wB68AsG6sABVyje4nnFHzy2xxbffELt8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 14:18:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazingPizza.ComponentsLibrary/leaflet/images/layers-2x.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\images\layers-2x.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Bm2sqFDY/77wB68AsG6sABVyje4nnFHzy2xxbffELt8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1259"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Bm2sqFDY/77wB68AsG6sABVyje4nnFHzy2xxbffELt8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 14:18:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazingPizza.ComponentsLibrary/leaflet/images/layers.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\images\layers.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Hbvp0CjikvNvy6j4s6KNXokydU/CIVuaxp5M3s9RB8Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"696"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Hbvp0CjikvNvy6j4s6KNXokydU/CIVuaxp5M3s9RB8Y=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 14:18:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazingPizza.ComponentsLibrary/leaflet/images/layers.ptvguihtoq.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\images\layers.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ptvguihtoq"},{"Name":"integrity","Value":"sha256-Hbvp0CjikvNvy6j4s6KNXokydU/CIVuaxp5M3s9RB8Y="},{"Name":"label","Value":"_content/BlazingPizza.ComponentsLibrary/leaflet/images/layers.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"696"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Hbvp0CjikvNvy6j4s6KNXokydU/CIVuaxp5M3s9RB8Y=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 14:18:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazingPizza.ComponentsLibrary/leaflet/images/marker-icon-2x.0gkuypkyzq.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\images\marker-icon-2x.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0gkuypkyzq"},{"Name":"integrity","Value":"sha256-ABecTB7oMNOhCEEq4NKU9Vd2z\u002BsIXGASmjmqb8SuJSg="},{"Name":"label","Value":"_content/BlazingPizza.ComponentsLibrary/leaflet/images/marker-icon-2x.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2464"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ABecTB7oMNOhCEEq4NKU9Vd2z\u002BsIXGASmjmqb8SuJSg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 14:18:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazingPizza.ComponentsLibrary/leaflet/images/marker-icon-2x.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\images\marker-icon-2x.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ABecTB7oMNOhCEEq4NKU9Vd2z\u002BsIXGASmjmqb8SuJSg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2464"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ABecTB7oMNOhCEEq4NKU9Vd2z\u002BsIXGASmjmqb8SuJSg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 14:18:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazingPizza.ComponentsLibrary/leaflet/images/marker-icon.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\images\marker-icon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-V0w6XMqF9BFAhbaEFZbWLwDXyJLHsD8oy/owHesdxDc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1466"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022V0w6XMqF9BFAhbaEFZbWLwDXyJLHsD8oy/owHesdxDc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 14:18:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazingPizza.ComponentsLibrary/leaflet/images/marker-icon.vq9wvlav5t.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\images\marker-icon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vq9wvlav5t"},{"Name":"integrity","Value":"sha256-V0w6XMqF9BFAhbaEFZbWLwDXyJLHsD8oy/owHesdxDc="},{"Name":"label","Value":"_content/BlazingPizza.ComponentsLibrary/leaflet/images/marker-icon.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1466"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022V0w6XMqF9BFAhbaEFZbWLwDXyJLHsD8oy/owHesdxDc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 14:18:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazingPizza.ComponentsLibrary/leaflet/images/marker-shadow.enp07i83pd.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\images\marker-shadow.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"enp07i83pd"},{"Name":"integrity","Value":"sha256-Jk9cZAM58ELdcpBiz8BMF/jqDymIK1OOOEjtjxDttNo="},{"Name":"label","Value":"_content/BlazingPizza.ComponentsLibrary/leaflet/images/marker-shadow.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"618"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Jk9cZAM58ELdcpBiz8BMF/jqDymIK1OOOEjtjxDttNo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 14:18:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazingPizza.ComponentsLibrary/leaflet/images/marker-shadow.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\images\marker-shadow.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jk9cZAM58ELdcpBiz8BMF/jqDymIK1OOOEjtjxDttNo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"618"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Jk9cZAM58ELdcpBiz8BMF/jqDymIK1OOOEjtjxDttNo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 14:18:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazingPizza.ComponentsLibrary/leaflet/leaflet.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\leaflet.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YFOU8c8VwvRIujVlCmhfrhrnrvxfoX0hTC53iVRFpV8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13471"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022YFOU8c8VwvRIujVlCmhfrhrnrvxfoX0hTC53iVRFpV8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 14:18:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazingPizza.ComponentsLibrary/leaflet/leaflet.g0ls2eohwv.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\leaflet.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"g0ls2eohwv"},{"Name":"integrity","Value":"sha256-YFOU8c8VwvRIujVlCmhfrhrnrvxfoX0hTC53iVRFpV8="},{"Name":"label","Value":"_content/BlazingPizza.ComponentsLibrary/leaflet/leaflet.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13471"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022YFOU8c8VwvRIujVlCmhfrhrnrvxfoX0hTC53iVRFpV8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 14:18:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazingPizza.ComponentsLibrary/leaflet/leaflet.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\leaflet.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6BZRSENq3kxI4YYBDqJ23xg0r1GwTHEpvp3okdaIqBw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"141053"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00226BZRSENq3kxI4YYBDqJ23xg0r1GwTHEpvp3okdaIqBw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 14:18:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazingPizza.ComponentsLibrary/leaflet/leaflet.k56z9h0631.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\leaflet.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k56z9h0631"},{"Name":"integrity","Value":"sha256-6BZRSENq3kxI4YYBDqJ23xg0r1GwTHEpvp3okdaIqBw="},{"Name":"label","Value":"_content/BlazingPizza.ComponentsLibrary/leaflet/leaflet.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"141053"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00226BZRSENq3kxI4YYBDqJ23xg0r1GwTHEpvp3okdaIqBw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 14:18:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazingPizza.ComponentsLibrary/localStorage.fva3f76nx6.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\localStorage.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fva3f76nx6"},{"Name":"integrity","Value":"sha256-NZsXYJVdWYTG4cHvN3JW9lVf78L6285o\u002BK6dgz5U\u002BX0="},{"Name":"label","Value":"_content/BlazingPizza.ComponentsLibrary/localStorage.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"275"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022NZsXYJVdWYTG4cHvN3JW9lVf78L6285o\u002BK6dgz5U\u002BX0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 14:18:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazingPizza.ComponentsLibrary/localStorage.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\localStorage.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NZsXYJVdWYTG4cHvN3JW9lVf78L6285o\u002BK6dgz5U\u002BX0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"275"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022NZsXYJVdWYTG4cHvN3JW9lVf78L6285o\u002BK6dgz5U\u002BX0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 14:18:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazingPizza.ComponentsLibrary/pushNotifications.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pushNotifications.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZX0wxMqr3w2iL4TV5\u002BBUfAKHjuAjaQeMuYddHRmtecA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1662"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ZX0wxMqr3w2iL4TV5\u002BBUfAKHjuAjaQeMuYddHRmtecA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 14:18:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazingPizza.ComponentsLibrary/pushNotifications.zuksefod67.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pushNotifications.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zuksefod67"},{"Name":"integrity","Value":"sha256-ZX0wxMqr3w2iL4TV5\u002BBUfAKHjuAjaQeMuYddHRmtecA="},{"Name":"label","Value":"_content/BlazingPizza.ComponentsLibrary/pushNotifications.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1662"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ZX0wxMqr3w2iL4TV5\u002BBUfAKHjuAjaQeMuYddHRmtecA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 14:18:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

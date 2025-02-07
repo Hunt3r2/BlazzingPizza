@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|c:\\users\\david.lejo\\downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\blazingpizza.client\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|solutionrelative:blazingpizza.client\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F85A53-A43B-4B5F-8C11-4FC62CDF19D6}|BlazingPizza.Server\\BlazingPizza.Server.csproj|c:\\users\\david.lejo\\downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\blazingpizza.server\\areas\\identity\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29F85A53-A43B-4B5F-8C11-4FC62CDF19D6}|BlazingPizza.Server\\BlazingPizza.Server.csproj|solutionrelative:blazingpizza.server\\areas\\identity\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|c:\\users\\david.lejo\\downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\blazingpizza.client\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|solutionrelative:blazingpizza.client\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|c:\\users\\david.lejo\\downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\blazingpizza.client\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|solutionrelative:blazingpizza.client\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C421DC9-9F9A-4C97-9BC5-D959E8840864}|BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj|c:\\users\\david.lejo\\downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\blazingpizza.componentslibrary\\map\\map.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C421DC9-9F9A-4C97-9BC5-D959E8840864}|BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj|solutionrelative:blazingpizza.componentslibrary\\map\\map.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|c:\\users\\david.lejo\\downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\blazingpizza.client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|solutionrelative:blazingpizza.client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F85A53-A43B-4B5F-8C11-4FC62CDF19D6}|BlazingPizza.Server\\BlazingPizza.Server.csproj|c:\\users\\david.lejo\\downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\blazingpizza.server\\models\\pizzaspecialentitytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F85A53-A43B-4B5F-8C11-4FC62CDF19D6}|BlazingPizza.Server\\BlazingPizza.Server.csproj|solutionrelative:blazingpizza.server\\models\\pizzaspecialentitytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F85A53-A43B-4B5F-8C11-4FC62CDF19D6}|BlazingPizza.Server\\BlazingPizza.Server.csproj|c:\\users\\david.lejo\\downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\blazingpizza.server\\pizzaapiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F85A53-A43B-4B5F-8C11-4FC62CDF19D6}|BlazingPizza.Server\\BlazingPizza.Server.csproj|solutionrelative:blazingpizza.server\\pizzaapiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F85A53-A43B-4B5F-8C11-4FC62CDF19D6}|BlazingPizza.Server\\BlazingPizza.Server.csproj|c:\\users\\david.lejo\\downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\blazingpizza.server\\pizzastorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F85A53-A43B-4B5F-8C11-4FC62CDF19D6}|BlazingPizza.Server\\BlazingPizza.Server.csproj|solutionrelative:blazingpizza.server\\pizzastorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42410116-06C1-4D19-B5FC-BD1F85F918B3}|BlazingPizza.Shared\\BlazingPizza.Shared.csproj|c:\\users\\david.lejo\\downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\blazingpizza.shared\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42410116-06C1-4D19-B5FC-BD1F85F918B3}|BlazingPizza.Shared\\BlazingPizza.Shared.csproj|solutionrelative:blazingpizza.shared\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|c:\\users\\david.lejo\\downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\blazingpizza.client\\pages\\myorders.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|solutionrelative:blazingpizza.client\\pages\\myorders.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|c:\\users\\david.lejo\\downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\blazingpizza.client\\blazingpizza.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|solutionrelative:blazingpizza.client\\blazingpizza.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|c:\\users\\david.lejo\\downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\blazingpizza.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|solutionrelative:blazingpizza.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.Client\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BlazingPizza.Client\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.Client\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BlazingPizza.Client\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAQwJYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-06T18:33:29.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Map.razor",
+              "DocumentMoniker": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\Map\\Map.razor",
+              "RelativeDocumentMoniker": "BlazingPizza.ComponentsLibrary\\Map\\Map.razor",
+              "ToolTip": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\Map\\Map.razor",
+              "RelativeToolTip": "BlazingPizza.ComponentsLibrary\\Map\\Map.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T18:19:02.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.Server\\Areas\\Identity\\Pages\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlazingPizza.Server\\Areas\\Identity\\Pages\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.Server\\Areas\\Identity\\Pages\\_Layout.cshtml",
+              "RelativeToolTip": "BlazingPizza.Server\\Areas\\Identity\\Pages\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T18:17:46.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PizzaSpecialEntityType.cs",
+              "DocumentMoniker": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.Server\\Models\\PizzaSpecialEntityType.cs",
+              "RelativeDocumentMoniker": "BlazingPizza.Server\\Models\\PizzaSpecialEntityType.cs",
+              "ToolTip": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.Server\\Models\\PizzaSpecialEntityType.cs",
+              "RelativeToolTip": "BlazingPizza.Server\\Models\\PizzaSpecialEntityType.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:17:17.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PizzaApiExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.Server\\PizzaApiExtensions.cs",
+              "RelativeDocumentMoniker": "BlazingPizza.Server\\PizzaApiExtensions.cs",
+              "ToolTip": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.Server\\PizzaApiExtensions.cs",
+              "RelativeToolTip": "BlazingPizza.Server\\PizzaApiExtensions.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:16:50.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PizzaStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.Server\\PizzaStoreContext.cs",
+              "RelativeDocumentMoniker": "BlazingPizza.Server\\PizzaStoreContext.cs",
+              "ToolTip": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.Server\\PizzaStoreContext.cs",
+              "RelativeToolTip": "BlazingPizza.Server\\PizzaStoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:16:49.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.Shared\\Pizza.cs",
+              "RelativeDocumentMoniker": "BlazingPizza.Shared\\Pizza.cs",
+              "ToolTip": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.Shared\\Pizza.cs",
+              "RelativeToolTip": "BlazingPizza.Shared\\Pizza.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:13:55.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyOrders.razor",
+              "DocumentMoniker": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.Client\\Pages\\MyOrders.razor",
+              "RelativeDocumentMoniker": "BlazingPizza.Client\\Pages\\MyOrders.razor",
+              "ToolTip": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.Client\\Pages\\MyOrders.razor",
+              "RelativeToolTip": "BlazingPizza.Client\\Pages\\MyOrders.razor",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T18:11:21.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "BlazingPizza.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeToolTip": "BlazingPizza.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-06T18:09:25.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.Client\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "BlazingPizza.Client\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.Client\\wwwroot\\index.html",
+              "RelativeToolTip": "BlazingPizza.Client\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-06T15:45:28.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.Client\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazingPizza.Client\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.Client\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "BlazingPizza.Client\\Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T14:52:36.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.Client\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "BlazingPizza.Client\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.Client\\Pages\\Index.razor",
+              "RelativeToolTip": "BlazingPizza.Client\\Pages\\Index.razor",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAsAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T14:24:26.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BlazingPizza.Client.csproj",
+              "DocumentMoniker": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.Client\\BlazingPizza.Client.csproj",
+              "RelativeDocumentMoniker": "BlazingPizza.Client\\BlazingPizza.Client.csproj",
+              "ToolTip": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.Client\\BlazingPizza.Client.csproj",
+              "RelativeToolTip": "BlazingPizza.Client\\BlazingPizza.Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T14:24:20.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
