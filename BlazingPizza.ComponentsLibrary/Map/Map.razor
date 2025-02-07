@@ -1,7 +1,7 @@
 ﻿@using Microsoft.JSInterop
 @inject IJSRuntime JSRuntime
 
-<div id="@elementId" style="height: 120px; width: 130px;"></div>
+<div id="@elementId" style="height: 100%; width: 100%;"></div>
 
 @code {
     string elementId = $"map-{Guid.NewGuid().ToString("D")}";

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Rz1sGYlH6aIzl7CMWSdVsM+Gcy5pnLVzhV3ofmAbdAw=",
+  "Hash": "x1LfUu+sWwfBXtBChd21zMFaiutTW6uA+0MRxkNtc6c=",
   "Source": "BlazingPizza.ComponentsLibrary",
   "BasePath": "_content/BlazingPizza.ComponentsLibrary",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazingPizza.ComponentsLibrary\\wwwroot",
       "Source": "BlazingPizza.ComponentsLibrary",
-      "ContentRoot": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
       "BasePath": "_content/BlazingPizza.ComponentsLibrary",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\deliveryMap.js",
+      "Identity": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\deliveryMap.js",
       "SourceId": "BlazingPizza.ComponentsLibrary",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
       "BasePath": "_content/BlazingPizza.ComponentsLibrary",
       "RelativePath": "deliveryMap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\deliveryMap.js"
     },
     {
-      "Identity": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers.png",
+      "Identity": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers.png",
       "SourceId": "BlazingPizza.ComponentsLibrary",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
       "BasePath": "_content/BlazingPizza.ComponentsLibrary",
       "RelativePath": "leaflet/images/layers#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\leaflet\\images\\layers.png"
     },
     {
-      "Identity": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers-2x.png",
+      "Identity": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers-2x.png",
       "SourceId": "BlazingPizza.ComponentsLibrary",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
       "BasePath": "_content/BlazingPizza.ComponentsLibrary",
       "RelativePath": "leaflet/images/layers-2x#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\leaflet\\images\\layers-2x.png"
     },
     {
-      "Identity": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon.png",
+      "Identity": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon.png",
       "SourceId": "BlazingPizza.ComponentsLibrary",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
       "BasePath": "_content/BlazingPizza.ComponentsLibrary",
       "RelativePath": "leaflet/images/marker-icon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\leaflet\\images\\marker-icon.png"
     },
     {
-      "Identity": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon-2x.png",
+      "Identity": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon-2x.png",
       "SourceId": "BlazingPizza.ComponentsLibrary",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
       "BasePath": "_content/BlazingPizza.ComponentsLibrary",
       "RelativePath": "leaflet/images/marker-icon-2x#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\leaflet\\images\\marker-icon-2x.png"
     },
     {
-      "Identity": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-shadow.png",
+      "Identity": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-shadow.png",
       "SourceId": "BlazingPizza.ComponentsLibrary",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
       "BasePath": "_content/BlazingPizza.ComponentsLibrary",
       "RelativePath": "leaflet/images/marker-shadow#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\leaflet\\images\\marker-shadow.png"
     },
     {
-      "Identity": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\leaflet.css",
+      "Identity": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\leaflet.css",
       "SourceId": "BlazingPizza.ComponentsLibrary",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
       "BasePath": "_content/BlazingPizza.ComponentsLibrary",
       "RelativePath": "leaflet/leaflet#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\leaflet\\leaflet.css"
     },
     {
-      "Identity": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\leaflet.js",
+      "Identity": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\leaflet.js",
       "SourceId": "BlazingPizza.ComponentsLibrary",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
       "BasePath": "_content/BlazingPizza.ComponentsLibrary",
       "RelativePath": "leaflet/leaflet#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\leaflet\\leaflet.js"
     },
     {
-      "Identity": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\localStorage.js",
+      "Identity": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\localStorage.js",
       "SourceId": "BlazingPizza.ComponentsLibrary",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
       "BasePath": "_content/BlazingPizza.ComponentsLibrary",
       "RelativePath": "localStorage#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\localStorage.js"
     },
     {
-      "Identity": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\pushNotifications.js",
+      "Identity": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\pushNotifications.js",
       "SourceId": "BlazingPizza.ComponentsLibrary",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
       "BasePath": "_content/BlazingPizza.ComponentsLibrary",
       "RelativePath": "pushNotifications#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -230,7 +230,7 @@
   "Endpoints": [
     {
       "Route": "deliveryMap.js",
-      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\deliveryMap.js",
+      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\deliveryMap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -251,7 +251,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 14:18:50 GMT"
+          "Value": "Tue, 04 Feb 2025 14:19:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -267,7 +267,7 @@
     },
     {
       "Route": "deliveryMap.ud3nbgpmep.js",
-      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\deliveryMap.js",
+      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\deliveryMap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -288,7 +288,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 14:18:50 GMT"
+          "Value": "Tue, 04 Feb 2025 14:19:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -312,7 +312,7 @@
     },
     {
       "Route": "leaflet/images/layers.png",
-      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers.png",
+      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -333,7 +333,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 14:18:51 GMT"
+          "Value": "Tue, 04 Feb 2025 14:19:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -349,7 +349,7 @@
     },
     {
       "Route": "leaflet/images/layers.ptvguihtoq.png",
-      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers.png",
+      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -370,7 +370,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 14:18:51 GMT"
+          "Value": "Tue, 04 Feb 2025 14:19:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -394,7 +394,7 @@
     },
     {
       "Route": "leaflet/images/layers-2x.ef5uc09gvw.png",
-      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers-2x.png",
+      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers-2x.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -415,7 +415,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 14:18:51 GMT"
+          "Value": "Tue, 04 Feb 2025 14:19:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -439,7 +439,7 @@
     },
     {
       "Route": "leaflet/images/layers-2x.png",
-      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers-2x.png",
+      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers-2x.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -460,7 +460,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 14:18:51 GMT"
+          "Value": "Tue, 04 Feb 2025 14:19:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -476,7 +476,7 @@
     },
     {
       "Route": "leaflet/images/marker-icon.png",
-      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon.png",
+      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -497,7 +497,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 14:18:52 GMT"
+          "Value": "Tue, 04 Feb 2025 14:19:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -513,7 +513,7 @@
     },
     {
       "Route": "leaflet/images/marker-icon.vq9wvlav5t.png",
-      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon.png",
+      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -534,7 +534,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 14:18:52 GMT"
+          "Value": "Tue, 04 Feb 2025 14:19:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -558,7 +558,7 @@
     },
     {
       "Route": "leaflet/images/marker-icon-2x.0gkuypkyzq.png",
-      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon-2x.png",
+      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon-2x.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -579,7 +579,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 14:18:51 GMT"
+          "Value": "Tue, 04 Feb 2025 14:19:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -603,7 +603,7 @@
     },
     {
       "Route": "leaflet/images/marker-icon-2x.png",
-      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon-2x.png",
+      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon-2x.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -624,7 +624,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 14:18:51 GMT"
+          "Value": "Tue, 04 Feb 2025 14:19:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -640,7 +640,7 @@
     },
     {
       "Route": "leaflet/images/marker-shadow.enp07i83pd.png",
-      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-shadow.png",
+      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-shadow.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -661,7 +661,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 14:18:52 GMT"
+          "Value": "Tue, 04 Feb 2025 14:19:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -685,7 +685,7 @@
     },
     {
       "Route": "leaflet/images/marker-shadow.png",
-      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-shadow.png",
+      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-shadow.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -706,7 +706,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 14:18:52 GMT"
+          "Value": "Tue, 04 Feb 2025 14:19:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -722,7 +722,7 @@
     },
     {
       "Route": "leaflet/leaflet.css",
-      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\leaflet.css",
+      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\leaflet.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -743,7 +743,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 14:18:51 GMT"
+          "Value": "Tue, 04 Feb 2025 14:19:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -759,7 +759,7 @@
     },
     {
       "Route": "leaflet/leaflet.g0ls2eohwv.css",
-      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\leaflet.css",
+      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\leaflet.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -780,7 +780,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 14:18:51 GMT"
+          "Value": "Tue, 04 Feb 2025 14:19:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -804,7 +804,7 @@
     },
     {
       "Route": "leaflet/leaflet.js",
-      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\leaflet.js",
+      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\leaflet.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -825,7 +825,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 14:18:51 GMT"
+          "Value": "Tue, 04 Feb 2025 14:19:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -841,7 +841,7 @@
     },
     {
       "Route": "leaflet/leaflet.k56z9h0631.js",
-      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\leaflet.js",
+      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\leaflet.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -862,7 +862,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 14:18:51 GMT"
+          "Value": "Tue, 04 Feb 2025 14:19:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -886,7 +886,7 @@
     },
     {
       "Route": "localStorage.fva3f76nx6.js",
-      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\localStorage.js",
+      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\localStorage.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -907,7 +907,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 14:18:51 GMT"
+          "Value": "Tue, 04 Feb 2025 14:19:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -931,7 +931,7 @@
     },
     {
       "Route": "localStorage.js",
-      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\localStorage.js",
+      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\localStorage.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -952,7 +952,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 14:18:51 GMT"
+          "Value": "Tue, 04 Feb 2025 14:19:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -968,7 +968,7 @@
     },
     {
       "Route": "pushNotifications.js",
-      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\pushNotifications.js",
+      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\pushNotifications.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -989,7 +989,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 14:18:51 GMT"
+          "Value": "Tue, 04 Feb 2025 14:19:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1005,7 +1005,7 @@
     },
     {
       "Route": "pushNotifications.zuksefod67.js",
-      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\prueba\\BlazingPizza.ComponentsLibrary\\wwwroot\\pushNotifications.js",
+      "AssetFile": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\wwwroot\\pushNotifications.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1026,7 +1026,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 14:18:51 GMT"
+          "Value": "Tue, 04 Feb 2025 14:19:01 GMT"
         },
         {
           "Name": "Cache-Control",

@@ -21,11 +21,11 @@ form {
 
 .top-bar {
     height: 5rem;
-    background-color: #00001e;
+    background-color: rgb(192,0,0);
     background-image: linear-gradient(rgba(0,0,0,0.3) 0%, rgba(0,0,0,0.25) 25%, rgba(0,0,0,0) 70%);
     display: flex;
     align-items: stretch;
-    color: darkblue;
+    color: white;
     box-shadow: 0 1px 3px rgba(0,0,0,0.4);
     padding: 0 3rem;
     position: fixed;
@@ -41,7 +41,7 @@ form {
 
     .logo > img {
         margin-right: 3rem;
-        width: 15rem;
+        width: 9rem;
     }
 
 .content {
@@ -68,7 +68,7 @@ form {
     align-items: center;
     justify-content: center;
     font-size: 0.9rem;
-    color: black;
+    color: white;
     position: relative;
     text-transform: uppercase;
     transition: 0.2s ease-out;
@@ -141,24 +141,24 @@ form {
 
 .pizza-cards {
     display: grid;
-    grid-template-columns: repeat(auto-fill, 15rem);
+    grid-template-columns: repeat(auto-fill, 20rem);
     grid-gap: 2rem;
     justify-content: center;
     padding-left: 0;
 }
 
     .pizza-cards > li {
-        height: 11.5rem;
+        height: 10rem;
         position: relative;
-        background-size: contain;
+        background-size: cover;
         border-radius: 0.5rem;
         list-style-type: none;
         box-shadow: 0 3px 4px rgba(0,0,0,0.4);
-        transition: 1s ease-out;
+        transition: 0.1s ease-out;
     }
 
         .pizza-cards > li:hover {
-            transform: scale(1.50);
+            transform: scale(1.02);
         }
 
 .pizza-info {
