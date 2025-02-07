@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "soYBXTQXsoc=",
+  "dgSpecHash": "wJ4p1Su9LM4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
+  "projectFilePath": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\06-authentication-and-authorization\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david.lejo\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.0\\microsoft.aspnetcore.authorization.7.0.0.nupkg.sha512",
     "C:\\Users\\david.lejo\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.0\\microsoft.aspnetcore.components.7.0.0.nupkg.sha512",

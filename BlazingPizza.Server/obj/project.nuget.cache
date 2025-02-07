@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Od+F6+EFWGo=",
+  "dgSpecHash": "M+C6JruztMw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.Server\\BlazingPizza.Server.csproj",
+  "projectFilePath": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\06-authentication-and-authorization\\BlazingPizza.Server\\BlazingPizza.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david.lejo\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\david.lejo\\.nuget\\packages\\duende.identityserver\\6.0.4\\duende.identityserver.6.0.4.nupkg.sha512",

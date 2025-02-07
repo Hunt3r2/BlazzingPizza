@@ -1,6 +1,6 @@
-C:\Users\david.lejo\Downloads\blazor-workshop-main (1)\blazor-workshop-main\save-points\05-checkout-with-validation\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.csproj.AssemblyReference.cache
-C:\Users\david.lejo\Downloads\blazor-workshop-main (1)\blazor-workshop-main\save-points\05-checkout-with-validation\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\david.lejo\Downloads\blazor-workshop-main (1)\blazor-workshop-main\save-points\05-checkout-with-validation\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.AssemblyInfoInputs.cache
-C:\Users\david.lejo\Downloads\blazor-workshop-main (1)\blazor-workshop-main\save-points\05-checkout-with-validation\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.AssemblyInfo.cs
-C:\Users\david.lejo\Downloads\blazor-workshop-main (1)\blazor-workshop-main\save-points\05-checkout-with-validation\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.csproj.CoreCompileInputs.cache
-C:\Users\david.lejo\Downloads\blazor-workshop-main (1)\blazor-workshop-main\save-points\05-checkout-with-validation\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\david.lejo\Downloads\blazor-workshop-main (1)\blazor-workshop-main\save-points\06-authentication-and-authorization\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.csproj.AssemblyReference.cache
+C:\Users\david.lejo\Downloads\blazor-workshop-main (1)\blazor-workshop-main\save-points\06-authentication-and-authorization\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.lejo\Downloads\blazor-workshop-main (1)\blazor-workshop-main\save-points\06-authentication-and-authorization\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.AssemblyInfoInputs.cache
+C:\Users\david.lejo\Downloads\blazor-workshop-main (1)\blazor-workshop-main\save-points\06-authentication-and-authorization\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.AssemblyInfo.cs
+C:\Users\david.lejo\Downloads\blazor-workshop-main (1)\blazor-workshop-main\save-points\06-authentication-and-authorization\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.csproj.CoreCompileInputs.cache
+C:\Users\david.lejo\Downloads\blazor-workshop-main (1)\blazor-workshop-main\save-points\06-authentication-and-authorization\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.MvcApplicationPartsAssemblyInfo.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.Client\\BlazingPizza.Client.csproj": {}
+    "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\06-authentication-and-authorization\\BlazingPizza.Client\\BlazingPizza.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.Client\\BlazingPizza.Client.csproj": {
+    "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\06-authentication-and-authorization\\BlazingPizza.Client\\BlazingPizza.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.Client\\BlazingPizza.Client.csproj",
+        "projectUniqueName": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\06-authentication-and-authorization\\BlazingPizza.Client\\BlazingPizza.Client.csproj",
         "projectName": "BlazingPizza.Client",
-        "projectPath": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.Client\\BlazingPizza.Client.csproj",
+        "projectPath": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\06-authentication-and-authorization\\BlazingPizza.Client\\BlazingPizza.Client.csproj",
         "packagesPath": "C:\\Users\\david.lejo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.Client\\obj\\",
+        "outputPath": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\06-authentication-and-authorization\\BlazingPizza.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {
-                "projectPath": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj"
+              "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\06-authentication-and-authorization\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {
+                "projectPath": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\06-authentication-and-authorization\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj"
               },
-              "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj": {
-                "projectPath": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj"
+              "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\06-authentication-and-authorization\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj": {
+                "projectPath": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\06-authentication-and-authorization\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj"
               }
             }
           }
@@ -118,14 +118,14 @@
         }
       }
     },
-    "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {
+    "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\06-authentication-and-authorization\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\06-authentication-and-authorization\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
         "projectName": "BlazingPizza.ComponentsLibrary",
-        "projectPath": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
+        "projectPath": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\06-authentication-and-authorization\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
         "packagesPath": "C:\\Users\\david.lejo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\obj\\",
+        "outputPath": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\06-authentication-and-authorization\\BlazingPizza.ComponentsLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -194,14 +194,14 @@
         }
       }
     },
-    "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj": {
+    "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\06-authentication-and-authorization\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\06-authentication-and-authorization\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
         "projectName": "BlazingPizza.Shared",
-        "projectPath": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
+        "projectPath": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\06-authentication-and-authorization\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
         "packagesPath": "C:\\Users\\david.lejo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.Shared\\obj\\",
+        "outputPath": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\06-authentication-and-authorization\\BlazingPizza.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -223,8 +223,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {
-                "projectPath": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj"
+              "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\06-authentication-and-authorization\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {
+                "projectPath": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\06-authentication-and-authorization\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj"
               }
             }
           }

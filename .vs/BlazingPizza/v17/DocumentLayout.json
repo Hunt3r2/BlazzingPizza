@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\05-checkout-with-validation\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\06-authentication-and-authorization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42410116-06C1-4D19-B5FC-BD1F85F918B3}|BlazingPizza.Shared\\BlazingPizza.Shared.csproj|c:\\users\\david.lejo\\downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\06-authentication-and-authorization\\blazingpizza.shared\\blazingpizza.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42410116-06C1-4D19-B5FC-BD1F85F918B3}|BlazingPizza.Shared\\BlazingPizza.Shared.csproj|solutionrelative:blazingpizza.shared\\blazingpizza.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlazingPizza.Shared",
+              "DocumentMoniker": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\06-authentication-and-authorization\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
+              "RelativeDocumentMoniker": "BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
+              "ToolTip": "C:\\Users\\david.lejo\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\save-points\\06-authentication-and-authorization\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
+              "RelativeToolTip": "BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-07T14:37:31.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
