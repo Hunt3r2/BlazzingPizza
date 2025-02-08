@@ -6,28 +6,32 @@
 
 <div class="main">
     <ul class="pizza-cards">
-        @if (specials is not null)
+        @if (specials != null && specials.Any())
         {
             @foreach (var special in specials)
             {
                 <li @onclick="@(() => OrderState.ShowConfigurePizzaDialog(special))" style="background-image: url('@special.ImageUrl')">
                     <div class="pizza-info">
                         <span class="title">@special.Name</span>
-                        @special.Description
+                        <p>@special.Description</p>
                         <span class="price">@special.GetFormattedBasePrice()</span>
                     </div>
                 </li>
             }
         }
+        else
+        {
+            <p>No pizza specials available at the moment.</p>
+        }
     </ul>
 </div>
 
 <div class="sidebar">
+    <button class="btn btn-secondary" @onclick="ActivarModoOscuro">Activar modo oscuro</button>
     @if (Order.Pizzas.Any())
     {
         <div class="order-contents">
             <h2>Your order</h2>
-
             @foreach (var configuredPizza in Order.Pizzas)
             {
                 <ConfiguredPizzaItem Pizza="configuredPizza" OnRemoved="@(() => RemovePizza(configuredPizza))" />
@@ -59,10 +63,37 @@
     List<PizzaSpecial>? specials;
     Order Order => OrderState.Order;
 
+    private bool esModoOscuro;
+
     protected override async Task OnInitializedAsync()
     {
         specials = await HttpClient.GetFromJsonAsync<List<PizzaSpecial>>("specials");
+
+        var modoOscuro = await JS.InvokeAsync<string>("localStorage.getItem", "modoOscuro");
+        if (modoOscuro == "true")
+        {
+            esModoOscuro = true;
+            await JS.InvokeVoidAsync("document.body.classList.add", "modo-oscuro");
+        }
     }
+
+    private async Task ActivarModoOscuro()
+    {
+        esModoOscuro = !esModoOscuro;
+        if (esModoOscuro)
+        {
+            await JS.InvokeVoidAsync("document.body.classList.add", "modo-oscuro");
+            await JS.InvokeVoidAsync("localStorage.setItem", "modoOscuro", "true");
+            Console.WriteLine("Modo oscuro activado");
+        }
+        else
+        {
+            await JS.InvokeVoidAsync("document.body.classList.remove", "modo-oscuro");
+            await JS.InvokeVoidAsync("localStorage.setItem", "modoOscuro", "false");
+            Console.WriteLine("Modo oscuro desactivado");
+        }
+    }
+
 
     async Task RemovePizza(Pizza configuredPizza)
     {

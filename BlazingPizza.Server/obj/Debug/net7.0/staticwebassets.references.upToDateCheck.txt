@@ -1,0 +1,9 @@
+C:\Users\david\Downloads\blazor-workshop-main\blazor-workshop-main\src\BlazingPizza.Client\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\david\Downloads\blazor-workshop-main\blazor-workshop-main\src\BlazingComponents\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\david\Downloads\blazor-workshop-main\blazor-workshop-main\src\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.Client\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingComponents\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.Client\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingComponents\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\staticwebassets.build.json
