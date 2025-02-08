@@ -1,8 +1,0 @@
-C:\Users\david.lejo\Downloads\blazor-workshop-main (1)\blazor-workshop-main\save-points\06-authentication-and-authorization\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.csproj.AssemblyReference.cache
-C:\Users\david.lejo\Downloads\blazor-workshop-main (1)\blazor-workshop-main\save-points\06-authentication-and-authorization\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\david.lejo\Downloads\blazor-workshop-main (1)\blazor-workshop-main\save-points\06-authentication-and-authorization\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.AssemblyInfoInputs.cache
-C:\Users\david.lejo\Downloads\blazor-workshop-main (1)\blazor-workshop-main\save-points\06-authentication-and-authorization\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.AssemblyInfo.cs
-C:\Users\david.lejo\Downloads\blazor-workshop-main (1)\blazor-workshop-main\save-points\06-authentication-and-authorization\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.csproj.CoreCompileInputs.cache
-C:\Users\david.lejo\Downloads\blazor-workshop-main (1)\blazor-workshop-main\save-points\06-authentication-and-authorization\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\david.lejo\Downloads\blazor-workshop-main (1)\blazor-workshop-main\save-points\06-authentication-and-authorization\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.RazorAssemblyInfo.cache
-C:\Users\david.lejo\Downloads\blazor-workshop-main (1)\blazor-workshop-main\save-points\06-authentication-and-authorization\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.RazorAssemblyInfo.cs
