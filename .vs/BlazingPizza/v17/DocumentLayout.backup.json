@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "BlazingPizza.Client\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\css\\site.css",
               "RelativeToolTip": "BlazingPizza.Client\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAswKUAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-02-08T19:42:10.431Z",
               "EditorCaption": ""
@@ -119,8 +119,7 @@
               "RelativeToolTip": "BlazingPizza.Client\\Pages\\Index.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-08T19:36:46.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T19:36:46.712Z"
             },
             {
               "$type": "Document",
