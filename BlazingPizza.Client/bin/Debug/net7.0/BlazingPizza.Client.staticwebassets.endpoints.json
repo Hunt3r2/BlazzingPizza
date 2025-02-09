@@ -1156,17 +1156,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RkMJ9Imb3e2bb7OyyjHWbHjlR0SVOAAsk5qQKrJg9AQ=\""
+          "Value": "\"CijP6PUlqjp2aHd9pGomsqlEuyJQ4p8VY79CcHbp/eQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:50:42 GMT"
+          "Value": "Sun, 09 Feb 2025 10:08:18 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RkMJ9Imb3e2bb7OyyjHWbHjlR0SVOAAsk5qQKrJg9AQ="
+          "Value": "sha256-CijP6PUlqjp2aHd9pGomsqlEuyJQ4p8VY79CcHbp/eQ="
         }
       ]
     },
@@ -1177,7 +1177,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000043166710"
+          "Quality": "0.000043157395"
         }
       ],
       "ResponseHeaders": [
@@ -1195,7 +1195,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23165"
+          "Value": "23170"
         },
         {
           "Name": "Content-Type",
@@ -1203,15 +1203,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TwkAoA+qelejOSHNJ8koozxiVCAUWtK0ImmGavRYh1A=\""
+          "Value": "\"CzYN7JLW1udyfvMi357UgFKfquzECN/sgiBRyp6w80M=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"RkMJ9Imb3e2bb7OyyjHWbHjlR0SVOAAsk5qQKrJg9AQ=\""
+          "Value": "W/\"CijP6PUlqjp2aHd9pGomsqlEuyJQ4p8VY79CcHbp/eQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:50:42 GMT"
+          "Value": "Sun, 09 Feb 2025 10:08:18 GMT"
         },
         {
           "Name": "Vary",
@@ -1221,7 +1221,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RkMJ9Imb3e2bb7OyyjHWbHjlR0SVOAAsk5qQKrJg9AQ="
+          "Value": "sha256-CijP6PUlqjp2aHd9pGomsqlEuyJQ4p8VY79CcHbp/eQ="
         }
       ]
     },
@@ -1244,7 +1244,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23165"
+          "Value": "23170"
         },
         {
           "Name": "Content-Type",
@@ -1252,11 +1252,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TwkAoA+qelejOSHNJ8koozxiVCAUWtK0ImmGavRYh1A=\""
+          "Value": "\"CzYN7JLW1udyfvMi357UgFKfquzECN/sgiBRyp6w80M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:50:42 GMT"
+          "Value": "Sun, 09 Feb 2025 10:08:18 GMT"
         },
         {
           "Name": "Vary",
@@ -1266,7 +1266,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-TwkAoA+qelejOSHNJ8koozxiVCAUWtK0ImmGavRYh1A="
+          "Value": "sha256-CzYN7JLW1udyfvMi357UgFKfquzECN/sgiBRyp6w80M="
         }
       ]
     },
@@ -1293,17 +1293,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vpc2aAPk2WgmdmYZHUY0CW1Miu9tyet1ZX8E0vhVCZ8=\""
+          "Value": "\"hXFMQ5XUuAhUvy5TAeUKyqptps5XUzeJe8NEAh8huu8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:50:42 GMT"
+          "Value": "Sun, 09 Feb 2025 10:08:18 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vpc2aAPk2WgmdmYZHUY0CW1Miu9tyet1ZX8E0vhVCZ8="
+          "Value": "sha256-hXFMQ5XUuAhUvy5TAeUKyqptps5XUzeJe8NEAh8huu8="
         }
       ]
     },
@@ -1314,7 +1314,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000026784519"
+          "Quality": "0.000026785236"
         }
       ],
       "ResponseHeaders": [
@@ -1332,7 +1332,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "37334"
+          "Value": "37333"
         },
         {
           "Name": "Content-Type",
@@ -1340,15 +1340,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nPNxeaGT+pvX212J5oJxQg9MoqJfPWZRO9RBrmJlbp8=\""
+          "Value": "\"n8WQbuEQn9hFM6grvT66UnM4Qo4w6x/iVBy6mFTXiGk=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"vpc2aAPk2WgmdmYZHUY0CW1Miu9tyet1ZX8E0vhVCZ8=\""
+          "Value": "W/\"hXFMQ5XUuAhUvy5TAeUKyqptps5XUzeJe8NEAh8huu8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:50:42 GMT"
+          "Value": "Sun, 09 Feb 2025 10:08:18 GMT"
         },
         {
           "Name": "Vary",
@@ -1358,7 +1358,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vpc2aAPk2WgmdmYZHUY0CW1Miu9tyet1ZX8E0vhVCZ8="
+          "Value": "sha256-hXFMQ5XUuAhUvy5TAeUKyqptps5XUzeJe8NEAh8huu8="
         }
       ]
     },
@@ -1381,7 +1381,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "37334"
+          "Value": "37333"
         },
         {
           "Name": "Content-Type",
@@ -1389,11 +1389,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nPNxeaGT+pvX212J5oJxQg9MoqJfPWZRO9RBrmJlbp8=\""
+          "Value": "\"n8WQbuEQn9hFM6grvT66UnM4Qo4w6x/iVBy6mFTXiGk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:50:42 GMT"
+          "Value": "Sun, 09 Feb 2025 10:08:18 GMT"
         },
         {
           "Name": "Vary",
@@ -1403,7 +1403,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nPNxeaGT+pvX212J5oJxQg9MoqJfPWZRO9RBrmJlbp8="
+          "Value": "sha256-n8WQbuEQn9hFM6grvT66UnM4Qo4w6x/iVBy6mFTXiGk="
         }
       ]
     },
@@ -28282,17 +28282,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6Fn+89U3FfXkr8j1r4ImMzTKkpF6C+swNsimF+KkFc8=\""
+          "Value": "\"nBlK/6CWNAMlvW8MzsK/SFtTH6Ng2KEf+OO5EzbQaMw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:56:01 GMT"
+          "Value": "Sun, 09 Feb 2025 10:14:21 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6Fn+89U3FfXkr8j1r4ImMzTKkpF6C+swNsimF+KkFc8="
+          "Value": "sha256-nBlK/6CWNAMlvW8MzsK/SFtTH6Ng2KEf+OO5EzbQaMw="
         }
       ]
     },
@@ -28303,7 +28303,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000107492207"
+          "Quality": "0.000107538445"
         }
       ],
       "ResponseHeaders": [
@@ -28321,7 +28321,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9302"
+          "Value": "9298"
         },
         {
           "Name": "Content-Type",
@@ -28329,15 +28329,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jlUce6ipZGFtxbshZ7JBgsgQXc5Z4q5sqjn38fRcMaE=\""
+          "Value": "\"vOUu22u+NysQX6H+1z2vM/RoW46Sh2jiRWSRGT8qC0o=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"6Fn+89U3FfXkr8j1r4ImMzTKkpF6C+swNsimF+KkFc8=\""
+          "Value": "W/\"nBlK/6CWNAMlvW8MzsK/SFtTH6Ng2KEf+OO5EzbQaMw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:55:40 GMT"
+          "Value": "Sun, 09 Feb 2025 10:12:48 GMT"
         },
         {
           "Name": "Vary",
@@ -28347,7 +28347,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6Fn+89U3FfXkr8j1r4ImMzTKkpF6C+swNsimF+KkFc8="
+          "Value": "sha256-nBlK/6CWNAMlvW8MzsK/SFtTH6Ng2KEf+OO5EzbQaMw="
         }
       ]
     },
@@ -28370,7 +28370,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9302"
+          "Value": "9298"
         },
         {
           "Name": "Content-Type",
@@ -28378,11 +28378,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jlUce6ipZGFtxbshZ7JBgsgQXc5Z4q5sqjn38fRcMaE=\""
+          "Value": "\"vOUu22u+NysQX6H+1z2vM/RoW46Sh2jiRWSRGT8qC0o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:55:40 GMT"
+          "Value": "Sun, 09 Feb 2025 10:12:48 GMT"
         },
         {
           "Name": "Vary",
@@ -28392,7 +28392,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jlUce6ipZGFtxbshZ7JBgsgQXc5Z4q5sqjn38fRcMaE="
+          "Value": "sha256-vOUu22u+NysQX6H+1z2vM/RoW46Sh2jiRWSRGT8qC0o="
         }
       ]
     },
@@ -30683,7 +30683,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19151"
+          "Value": "19152"
         },
         {
           "Name": "Content-Type",
@@ -30691,22 +30691,22 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6YikoCgObmo6s3abCC6cHWlZmxV6Sv2Gs2/CZbh0rH8=\""
+          "Value": "\"AgIqMSWHBH8X1tni/kKyrYr0B9K3FWviG/WbnY4xTMQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:55:59 GMT"
+          "Value": "Sun, 09 Feb 2025 10:14:17 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6YikoCgObmo6s3abCC6cHWlZmxV6Sv2Gs2/CZbh0rH8="
+          "Value": "sha256-AgIqMSWHBH8X1tni/kKyrYr0B9K3FWviG/WbnY4xTMQ="
         }
       ]
     },
     {
-      "Route": "css/site.pkkzq3zni6.css",
+      "Route": "css/site.mvlxdmdopa.css",
       "AssetFile": "css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -30720,7 +30720,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19151"
+          "Value": "19152"
         },
         {
           "Name": "Content-Type",
@@ -30728,21 +30728,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6YikoCgObmo6s3abCC6cHWlZmxV6Sv2Gs2/CZbh0rH8=\""
+          "Value": "\"AgIqMSWHBH8X1tni/kKyrYr0B9K3FWviG/WbnY4xTMQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:55:59 GMT"
+          "Value": "Sun, 09 Feb 2025 10:14:17 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pkkzq3zni6"
+          "Value": "mvlxdmdopa"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-6YikoCgObmo6s3abCC6cHWlZmxV6Sv2Gs2/CZbh0rH8="
+          "Value": "sha256-AgIqMSWHBH8X1tni/kKyrYr0B9K3FWviG/WbnY4xTMQ="
         },
         {
           "Name": "label",
@@ -30993,6 +30993,498 @@
         {
           "Name": "label",
           "Value": "img/logo.svg"
+        }
+      ]
+    },
+    {
+      "Route": "img/personajes/img_icon_avengers-infinity-war.jpugb4bwvc.png",
+      "AssetFile": "img/personajes/img_icon_avengers-infinity-war.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90299"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"idUCOsjE0HrN79WvMRKsSh0Mj9IbW29sXw1F5H108Mo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 10:07:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jpugb4bwvc"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-idUCOsjE0HrN79WvMRKsSh0Mj9IbW29sXw1F5H108Mo="
+        },
+        {
+          "Name": "label",
+          "Value": "img/personajes/img_icon_avengers-infinity-war.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/personajes/img_icon_avengers-infinity-war.png",
+      "AssetFile": "img/personajes/img_icon_avengers-infinity-war.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90299"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"idUCOsjE0HrN79WvMRKsSh0Mj9IbW29sXw1F5H108Mo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 10:07:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-idUCOsjE0HrN79WvMRKsSh0Mj9IbW29sXw1F5H108Mo="
+        }
+      ]
+    },
+    {
+      "Route": "img/personajes/img_icon_blood-kariudo.png",
+      "AssetFile": "img/personajes/img_icon_blood-kariudo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98837"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eyKsq+cCEWM+tSZJFxB+LXyjFgnuEHYVBJUquOVYE+8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 10:06:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eyKsq+cCEWM+tSZJFxB+LXyjFgnuEHYVBJUquOVYE+8="
+        }
+      ]
+    },
+    {
+      "Route": "img/personajes/img_icon_blood-kariudo.z6cbc98d7m.png",
+      "AssetFile": "img/personajes/img_icon_blood-kariudo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98837"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eyKsq+cCEWM+tSZJFxB+LXyjFgnuEHYVBJUquOVYE+8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 10:06:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z6cbc98d7m"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eyKsq+cCEWM+tSZJFxB+LXyjFgnuEHYVBJUquOVYE+8="
+        },
+        {
+          "Name": "label",
+          "Value": "img/personajes/img_icon_blood-kariudo.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/personajes/img_icon_blood-shield.nclz7ftr2s.png",
+      "AssetFile": "img/personajes/img_icon_blood-shield.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KRZMtwbZq3Kx9S1MvAuj5vDDjszW5ZUzWORdUikP/Lw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 10:07:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nclz7ftr2s"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KRZMtwbZq3Kx9S1MvAuj5vDDjszW5ZUzWORdUikP/Lw="
+        },
+        {
+          "Name": "label",
+          "Value": "img/personajes/img_icon_blood-shield.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/personajes/img_icon_blood-shield.png",
+      "AssetFile": "img/personajes/img_icon_blood-shield.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KRZMtwbZq3Kx9S1MvAuj5vDDjszW5ZUzWORdUikP/Lw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 10:07:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KRZMtwbZq3Kx9S1MvAuj5vDDjszW5ZUzWORdUikP/Lw="
+        }
+      ]
+    },
+    {
+      "Route": "img/personajes/img_icon_blood-soldier.jt2osc1jn5.png",
+      "AssetFile": "img/personajes/img_icon_blood-soldier.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R0CHpG3s2tU8lh0zXXb6U8VmuSy+yWXYshZZPrv+fOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 10:06:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jt2osc1jn5"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R0CHpG3s2tU8lh0zXXb6U8VmuSy+yWXYshZZPrv+fOI="
+        },
+        {
+          "Name": "label",
+          "Value": "img/personajes/img_icon_blood-soldier.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/personajes/img_icon_blood-soldier.png",
+      "AssetFile": "img/personajes/img_icon_blood-soldier.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R0CHpG3s2tU8lh0zXXb6U8VmuSy+yWXYshZZPrv+fOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 10:06:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R0CHpG3s2tU8lh0zXXb6U8VmuSy+yWXYshZZPrv+fOI="
+        }
+      ]
+    },
+    {
+      "Route": "img/personajes/img_icon_blood-soul.png",
+      "AssetFile": "img/personajes/img_icon_blood-soul.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"shDmjXwg7PAmBG501YNPU0GiiImJC5tJWHuEdq9BMrw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 10:07:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-shDmjXwg7PAmBG501YNPU0GiiImJC5tJWHuEdq9BMrw="
+        }
+      ]
+    },
+    {
+      "Route": "img/personajes/img_icon_blood-soul.qid1itf1f1.png",
+      "AssetFile": "img/personajes/img_icon_blood-soul.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"shDmjXwg7PAmBG501YNPU0GiiImJC5tJWHuEdq9BMrw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 10:07:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qid1itf1f1"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-shDmjXwg7PAmBG501YNPU0GiiImJC5tJWHuEdq9BMrw="
+        },
+        {
+          "Name": "label",
+          "Value": "img/personajes/img_icon_blood-soul.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/personajes/img_icon_marvels-spider-man-2.3errnhc5a4.png",
+      "AssetFile": "img/personajes/img_icon_marvels-spider-man-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"leGTfe/l4RX/pNc5lo9Wis7UCda7Z+u5F3M2hOGMXbA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 10:07:09 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3errnhc5a4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-leGTfe/l4RX/pNc5lo9Wis7UCda7Z+u5F3M2hOGMXbA="
+        },
+        {
+          "Name": "label",
+          "Value": "img/personajes/img_icon_marvels-spider-man-2.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/personajes/img_icon_marvels-spider-man-2.png",
+      "AssetFile": "img/personajes/img_icon_marvels-spider-man-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"leGTfe/l4RX/pNc5lo9Wis7UCda7Z+u5F3M2hOGMXbA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 10:07:09 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-leGTfe/l4RX/pNc5lo9Wis7UCda7Z+u5F3M2hOGMXbA="
         }
       ]
     },
@@ -31735,6 +32227,88 @@
       ]
     },
     {
+      "Route": "img/rivals.kbys6dc8gu.svg",
+      "AssetFile": "img/rivals.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "532649"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QIkoER3ryhTd4oohlCHXxBbUMa8fmZ/R7EkzuzaSeD8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 09:56:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kbys6dc8gu"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QIkoER3ryhTd4oohlCHXxBbUMa8fmZ/R7EkzuzaSeD8="
+        },
+        {
+          "Name": "label",
+          "Value": "img/rivals.svg"
+        }
+      ]
+    },
+    {
+      "Route": "img/rivals.svg",
+      "AssetFile": "img/rivals.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "532649"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QIkoER3ryhTd4oohlCHXxBbUMa8fmZ/R7EkzuzaSeD8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 09:56:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QIkoER3ryhTd4oohlCHXxBbUMa8fmZ/R7EkzuzaSeD8="
+        }
+      ]
+    },
+    {
       "Route": "img/user.svg",
       "AssetFile": "img/user.svg",
       "Selectors": [],
@@ -31843,7 +32417,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:21:49 GMT"
+          "Value": "Sun, 09 Feb 2025 09:45:23 GMT"
         }
       ],
       "EndpointProperties": [
@@ -31888,7 +32462,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:21:49 GMT"
+          "Value": "Sun, 09 Feb 2025 09:45:23 GMT"
         }
       ],
       "EndpointProperties": [

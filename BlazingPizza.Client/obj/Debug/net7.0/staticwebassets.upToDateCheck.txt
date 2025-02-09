@@ -13,6 +13,12 @@ wwwroot\css\site.css
 wwwroot\img\bike.svg
 wwwroot\img\icon-512.png
 wwwroot\img\logo.svg
+wwwroot\img\personajes\img_icon_avengers-infinity-war.png
+wwwroot\img\personajes\img_icon_blood-kariudo.png
+wwwroot\img\personajes\img_icon_blood-shield.png
+wwwroot\img\personajes\img_icon_blood-soldier.png
+wwwroot\img\personajes\img_icon_blood-soul.png
+wwwroot\img\personajes\img_icon_marvels-spider-man-2.png
 wwwroot\img\pizzas\bacon.jpg
 wwwroot\img\pizzas\brit.jpg
 wwwroot\img\pizzas\cheese.jpg
@@ -22,6 +28,7 @@ wwwroot\img\pizzas\mushroom.jpg
 wwwroot\img\pizzas\pepperoni.jpg
 wwwroot\img\pizzas\salad.jpg
 wwwroot\img\pizza-slice.svg
+wwwroot\img\rivals.svg
 wwwroot\img\user.svg
 wwwroot\index.html
 wwwroot\manifest.json

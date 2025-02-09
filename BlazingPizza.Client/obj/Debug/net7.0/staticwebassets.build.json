@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MUygYsQqM8NY7On50PFIT37IcgxyKbKkfqwBkt6f52g=",
+  "Hash": "ONvakXpDnVhRPnNMwocF8NscmsLRDdCPbdzkeQ35O5o=",
   "Source": "BlazingPizza.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -124,8 +124,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "evp7ahhkbd",
-      "Integrity": "RkMJ9Imb3e2bb7OyyjHWbHjlR0SVOAAsk5qQKrJg9AQ=",
+      "Fingerprint": "yuj2vumhe6",
+      "Integrity": "CijP6PUlqjp2aHd9pGomsqlEuyJQ4p8VY79CcHbp/eQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net7.0\\BlazingPizza.Client.dll"
@@ -145,8 +145,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "u0ymqqcqs9",
-      "Integrity": "vpc2aAPk2WgmdmYZHUY0CW1Miu9tyet1ZX8E0vhVCZ8=",
+      "Fingerprint": "93pm1ak4qm",
+      "Integrity": "hXFMQ5XUuAhUvy5TAeUKyqptps5XUzeJe8NEAh8huu8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net7.0\\BlazingPizza.Client.pdb"
@@ -250,8 +250,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "k51xm3mwjo",
-      "Integrity": "6Fn+89U3FfXkr8j1r4ImMzTKkpF6C+swNsimF+KkFc8=",
+      "Fingerprint": "033svzfxbl",
+      "Integrity": "nBlK/6CWNAMlvW8MzsK/SFtTH6Ng2KEf+OO5EzbQaMw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net7.0\\blazor.boot.json"
@@ -6452,7 +6452,7 @@
       "OriginalItemSpec": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Threading.ThreadPool.dll"
     },
     {
-      "Identity": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\obj\\Debug\\net7.0\\compressed\\fjmgmp7c3f-u0ymqqcqs9.gz",
+      "Identity": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\obj\\Debug\\net7.0\\compressed\\fjmgmp7c3f-93pm1ak4qm.gz",
       "SourceId": "BlazingPizza.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\obj\\Debug\\net7.0\\compressed\\",
@@ -6466,8 +6466,8 @@
       "RelatedAsset": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazingPizza.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ofjgabbtyu",
-      "Integrity": "nPNxeaGT+pvX212J5oJxQg9MoqJfPWZRO9RBrmJlbp8=",
+      "Fingerprint": "bxvou8tdj6",
+      "Integrity": "n8WQbuEQn9hFM6grvT66UnM4Qo4w6x/iVBy6mFTXiGk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazingPizza.Client.pdb"
@@ -7628,7 +7628,7 @@
       "OriginalItemSpec": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.ServiceProcess.dll"
     },
     {
-      "Identity": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\obj\\Debug\\net7.0\\compressed\\opzk2anv25-k51xm3mwjo.gz",
+      "Identity": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\obj\\Debug\\net7.0\\compressed\\opzk2anv25-033svzfxbl.gz",
       "SourceId": "BlazingPizza.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\obj\\Debug\\net7.0\\compressed\\",
@@ -7642,8 +7642,8 @@
       "RelatedAsset": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "adzezakgdy",
-      "Integrity": "jlUce6ipZGFtxbshZ7JBgsgQXc5Z4q5sqjn38fRcMaE=",
+      "Fingerprint": "g7ff3uxjsz",
+      "Integrity": "vOUu22u+NysQX6H+1z2vM/RoW46Sh2jiRWSRGT8qC0o=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -8909,7 +8909,7 @@
       "OriginalItemSpec": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Net.ServicePoint.dll"
     },
     {
-      "Identity": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\obj\\Debug\\net7.0\\compressed\\zvvky172e7-evp7ahhkbd.gz",
+      "Identity": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\obj\\Debug\\net7.0\\compressed\\zvvky172e7-yuj2vumhe6.gz",
       "SourceId": "BlazingPizza.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\obj\\Debug\\net7.0\\compressed\\",
@@ -8923,8 +8923,8 @@
       "RelatedAsset": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazingPizza.Client.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "xw5zuo75i5",
-      "Integrity": "TwkAoA+qelejOSHNJ8koozxiVCAUWtK0ImmGavRYh1A=",
+      "Fingerprint": "r4q729zm0n",
+      "Integrity": "CzYN7JLW1udyfvMi357UgFKfquzECN/sgiBRyp6w80M=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazingPizza.Client.dll"
@@ -9175,8 +9175,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "pkkzq3zni6",
-      "Integrity": "6YikoCgObmo6s3abCC6cHWlZmxV6Sv2Gs2/CZbh0rH8=",
+      "Fingerprint": "mvlxdmdopa",
+      "Integrity": "AgIqMSWHBH8X1tni/kKyrYr0B9K3FWviG/WbnY4xTMQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -9243,6 +9243,132 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\logo.svg"
+    },
+    {
+      "Identity": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_avengers-infinity-war.png",
+      "SourceId": "BlazingPizza.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "img/personajes/img_icon_avengers-infinity-war#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jpugb4bwvc",
+      "Integrity": "idUCOsjE0HrN79WvMRKsSh0Mj9IbW29sXw1F5H108Mo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personajes\\img_icon_avengers-infinity-war.png"
+    },
+    {
+      "Identity": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_blood-kariudo.png",
+      "SourceId": "BlazingPizza.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "img/personajes/img_icon_blood-kariudo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z6cbc98d7m",
+      "Integrity": "eyKsq+cCEWM+tSZJFxB+LXyjFgnuEHYVBJUquOVYE+8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personajes\\img_icon_blood-kariudo.png"
+    },
+    {
+      "Identity": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_blood-shield.png",
+      "SourceId": "BlazingPizza.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "img/personajes/img_icon_blood-shield#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nclz7ftr2s",
+      "Integrity": "KRZMtwbZq3Kx9S1MvAuj5vDDjszW5ZUzWORdUikP/Lw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personajes\\img_icon_blood-shield.png"
+    },
+    {
+      "Identity": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_blood-soldier.png",
+      "SourceId": "BlazingPizza.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "img/personajes/img_icon_blood-soldier#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jt2osc1jn5",
+      "Integrity": "R0CHpG3s2tU8lh0zXXb6U8VmuSy+yWXYshZZPrv+fOI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personajes\\img_icon_blood-soldier.png"
+    },
+    {
+      "Identity": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_blood-soul.png",
+      "SourceId": "BlazingPizza.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "img/personajes/img_icon_blood-soul#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qid1itf1f1",
+      "Integrity": "shDmjXwg7PAmBG501YNPU0GiiImJC5tJWHuEdq9BMrw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personajes\\img_icon_blood-soul.png"
+    },
+    {
+      "Identity": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_marvels-spider-man-2.png",
+      "SourceId": "BlazingPizza.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "img/personajes/img_icon_marvels-spider-man-2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3errnhc5a4",
+      "Integrity": "leGTfe/l4RX/pNc5lo9Wis7UCda7Z+u5F3M2hOGMXbA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personajes\\img_icon_marvels-spider-man-2.png"
     },
     {
       "Identity": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\pizzas\\bacon.jpg",
@@ -9432,6 +9558,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\pizza-slice.svg"
+    },
+    {
+      "Identity": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\rivals.svg",
+      "SourceId": "BlazingPizza.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "img/rivals#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kbys6dc8gu",
+      "Integrity": "QIkoER3ryhTd4oohlCHXxBbUMa8fmZ/R7EkzuzaSeD8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\rivals.svg"
     },
     {
       "Identity": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\user.svg",
@@ -10879,11 +11026,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RkMJ9Imb3e2bb7OyyjHWbHjlR0SVOAAsk5qQKrJg9AQ=\""
+          "Value": "\"CijP6PUlqjp2aHd9pGomsqlEuyJQ4p8VY79CcHbp/eQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:50:42 GMT"
+          "Value": "Sun, 09 Feb 2025 10:08:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10893,18 +11040,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RkMJ9Imb3e2bb7OyyjHWbHjlR0SVOAAsk5qQKrJg9AQ="
+          "Value": "sha256-CijP6PUlqjp2aHd9pGomsqlEuyJQ4p8VY79CcHbp/eQ="
         }
       ]
     },
     {
       "Route": "_framework/BlazingPizza.Client.dll",
-      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\obj\\Debug\\net7.0\\compressed\\zvvky172e7-evp7ahhkbd.gz",
+      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\obj\\Debug\\net7.0\\compressed\\zvvky172e7-yuj2vumhe6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000043166710"
+          "Quality": "0.000043157395"
         }
       ],
       "ResponseHeaders": [
@@ -10914,15 +11061,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23165"
+          "Value": "23170"
         },
         {
           "Name": "ETag",
-          "Value": "\"TwkAoA+qelejOSHNJ8koozxiVCAUWtK0ImmGavRYh1A=\""
+          "Value": "\"CzYN7JLW1udyfvMi357UgFKfquzECN/sgiBRyp6w80M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:50:42 GMT"
+          "Value": "Sun, 09 Feb 2025 10:08:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10942,19 +11089,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"RkMJ9Imb3e2bb7OyyjHWbHjlR0SVOAAsk5qQKrJg9AQ=\""
+          "Value": "W/\"CijP6PUlqjp2aHd9pGomsqlEuyJQ4p8VY79CcHbp/eQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RkMJ9Imb3e2bb7OyyjHWbHjlR0SVOAAsk5qQKrJg9AQ="
+          "Value": "sha256-CijP6PUlqjp2aHd9pGomsqlEuyJQ4p8VY79CcHbp/eQ="
         }
       ]
     },
     {
       "Route": "_framework/BlazingPizza.Client.dll.gz",
-      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\obj\\Debug\\net7.0\\compressed\\zvvky172e7-evp7ahhkbd.gz",
+      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\obj\\Debug\\net7.0\\compressed\\zvvky172e7-yuj2vumhe6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10963,7 +11110,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23165"
+          "Value": "23170"
         },
         {
           "Name": "Content-Type",
@@ -10971,11 +11118,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TwkAoA+qelejOSHNJ8koozxiVCAUWtK0ImmGavRYh1A=\""
+          "Value": "\"CzYN7JLW1udyfvMi357UgFKfquzECN/sgiBRyp6w80M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:50:42 GMT"
+          "Value": "Sun, 09 Feb 2025 10:08:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10993,7 +11140,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-TwkAoA+qelejOSHNJ8koozxiVCAUWtK0ImmGavRYh1A="
+          "Value": "sha256-CzYN7JLW1udyfvMi357UgFKfquzECN/sgiBRyp6w80M="
         }
       ]
     },
@@ -11016,11 +11163,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vpc2aAPk2WgmdmYZHUY0CW1Miu9tyet1ZX8E0vhVCZ8=\""
+          "Value": "\"hXFMQ5XUuAhUvy5TAeUKyqptps5XUzeJe8NEAh8huu8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:50:42 GMT"
+          "Value": "Sun, 09 Feb 2025 10:08:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11030,18 +11177,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vpc2aAPk2WgmdmYZHUY0CW1Miu9tyet1ZX8E0vhVCZ8="
+          "Value": "sha256-hXFMQ5XUuAhUvy5TAeUKyqptps5XUzeJe8NEAh8huu8="
         }
       ]
     },
     {
       "Route": "_framework/BlazingPizza.Client.pdb",
-      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\obj\\Debug\\net7.0\\compressed\\fjmgmp7c3f-u0ymqqcqs9.gz",
+      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\obj\\Debug\\net7.0\\compressed\\fjmgmp7c3f-93pm1ak4qm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000026784519"
+          "Quality": "0.000026785236"
         }
       ],
       "ResponseHeaders": [
@@ -11051,15 +11198,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "37334"
+          "Value": "37333"
         },
         {
           "Name": "ETag",
-          "Value": "\"nPNxeaGT+pvX212J5oJxQg9MoqJfPWZRO9RBrmJlbp8=\""
+          "Value": "\"n8WQbuEQn9hFM6grvT66UnM4Qo4w6x/iVBy6mFTXiGk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:50:42 GMT"
+          "Value": "Sun, 09 Feb 2025 10:08:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11079,19 +11226,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"vpc2aAPk2WgmdmYZHUY0CW1Miu9tyet1ZX8E0vhVCZ8=\""
+          "Value": "W/\"hXFMQ5XUuAhUvy5TAeUKyqptps5XUzeJe8NEAh8huu8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vpc2aAPk2WgmdmYZHUY0CW1Miu9tyet1ZX8E0vhVCZ8="
+          "Value": "sha256-hXFMQ5XUuAhUvy5TAeUKyqptps5XUzeJe8NEAh8huu8="
         }
       ]
     },
     {
       "Route": "_framework/BlazingPizza.Client.pdb.gz",
-      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\obj\\Debug\\net7.0\\compressed\\fjmgmp7c3f-u0ymqqcqs9.gz",
+      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\obj\\Debug\\net7.0\\compressed\\fjmgmp7c3f-93pm1ak4qm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11100,7 +11247,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "37334"
+          "Value": "37333"
         },
         {
           "Name": "Content-Type",
@@ -11108,11 +11255,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nPNxeaGT+pvX212J5oJxQg9MoqJfPWZRO9RBrmJlbp8=\""
+          "Value": "\"n8WQbuEQn9hFM6grvT66UnM4Qo4w6x/iVBy6mFTXiGk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:50:42 GMT"
+          "Value": "Sun, 09 Feb 2025 10:08:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11130,7 +11277,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nPNxeaGT+pvX212J5oJxQg9MoqJfPWZRO9RBrmJlbp8="
+          "Value": "sha256-n8WQbuEQn9hFM6grvT66UnM4Qo4w6x/iVBy6mFTXiGk="
         }
       ]
     },
@@ -11701,11 +11848,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6Fn+89U3FfXkr8j1r4ImMzTKkpF6C+swNsimF+KkFc8=\""
+          "Value": "\"nBlK/6CWNAMlvW8MzsK/SFtTH6Ng2KEf+OO5EzbQaMw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:56:01 GMT"
+          "Value": "Sun, 09 Feb 2025 10:14:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11715,18 +11862,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6Fn+89U3FfXkr8j1r4ImMzTKkpF6C+swNsimF+KkFc8="
+          "Value": "sha256-nBlK/6CWNAMlvW8MzsK/SFtTH6Ng2KEf+OO5EzbQaMw="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\obj\\Debug\\net7.0\\compressed\\opzk2anv25-k51xm3mwjo.gz",
+      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\obj\\Debug\\net7.0\\compressed\\opzk2anv25-033svzfxbl.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000107492207"
+          "Quality": "0.000107538445"
         }
       ],
       "ResponseHeaders": [
@@ -11736,15 +11883,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9302"
+          "Value": "9298"
         },
         {
           "Name": "ETag",
-          "Value": "\"jlUce6ipZGFtxbshZ7JBgsgQXc5Z4q5sqjn38fRcMaE=\""
+          "Value": "\"vOUu22u+NysQX6H+1z2vM/RoW46Sh2jiRWSRGT8qC0o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:55:40 GMT"
+          "Value": "Sun, 09 Feb 2025 10:12:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11764,19 +11911,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"6Fn+89U3FfXkr8j1r4ImMzTKkpF6C+swNsimF+KkFc8=\""
+          "Value": "W/\"nBlK/6CWNAMlvW8MzsK/SFtTH6Ng2KEf+OO5EzbQaMw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6Fn+89U3FfXkr8j1r4ImMzTKkpF6C+swNsimF+KkFc8="
+          "Value": "sha256-nBlK/6CWNAMlvW8MzsK/SFtTH6Ng2KEf+OO5EzbQaMw="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\obj\\Debug\\net7.0\\compressed\\opzk2anv25-k51xm3mwjo.gz",
+      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\obj\\Debug\\net7.0\\compressed\\opzk2anv25-033svzfxbl.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11785,7 +11932,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9302"
+          "Value": "9298"
         },
         {
           "Name": "Content-Type",
@@ -11793,11 +11940,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jlUce6ipZGFtxbshZ7JBgsgQXc5Z4q5sqjn38fRcMaE=\""
+          "Value": "\"vOUu22u+NysQX6H+1z2vM/RoW46Sh2jiRWSRGT8qC0o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:55:40 GMT"
+          "Value": "Sun, 09 Feb 2025 10:12:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11815,7 +11962,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jlUce6ipZGFtxbshZ7JBgsgQXc5Z4q5sqjn38fRcMaE="
+          "Value": "sha256-vOUu22u+NysQX6H+1z2vM/RoW46Sh2jiRWSRGT8qC0o="
         }
       ]
     },
@@ -40406,7 +40553,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19151"
+          "Value": "19152"
         },
         {
           "Name": "Content-Type",
@@ -40414,11 +40561,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6YikoCgObmo6s3abCC6cHWlZmxV6Sv2Gs2/CZbh0rH8=\""
+          "Value": "\"AgIqMSWHBH8X1tni/kKyrYr0B9K3FWviG/WbnY4xTMQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:55:59 GMT"
+          "Value": "Sun, 09 Feb 2025 10:14:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -40428,12 +40575,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6YikoCgObmo6s3abCC6cHWlZmxV6Sv2Gs2/CZbh0rH8="
+          "Value": "sha256-AgIqMSWHBH8X1tni/kKyrYr0B9K3FWviG/WbnY4xTMQ="
         }
       ]
     },
     {
-      "Route": "css/site.pkkzq3zni6.css",
+      "Route": "css/site.mvlxdmdopa.css",
       "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -40443,7 +40590,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19151"
+          "Value": "19152"
         },
         {
           "Name": "Content-Type",
@@ -40451,11 +40598,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6YikoCgObmo6s3abCC6cHWlZmxV6Sv2Gs2/CZbh0rH8=\""
+          "Value": "\"AgIqMSWHBH8X1tni/kKyrYr0B9K3FWviG/WbnY4xTMQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:55:59 GMT"
+          "Value": "Sun, 09 Feb 2025 10:14:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -40465,7 +40612,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pkkzq3zni6"
+          "Value": "mvlxdmdopa"
         },
         {
           "Name": "label",
@@ -40473,7 +40620,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-6YikoCgObmo6s3abCC6cHWlZmxV6Sv2Gs2/CZbh0rH8="
+          "Value": "sha256-AgIqMSWHBH8X1tni/kKyrYr0B9K3FWviG/WbnY4xTMQ="
         }
       ]
     },
@@ -40720,6 +40867,498 @@
         {
           "Name": "integrity",
           "Value": "sha256-u5/n/qxN+3n3BK0EeQO9TwVCB0m3NhWTp3kF2n3vENQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/personajes/img_icon_avengers-infinity-war.jpugb4bwvc.png",
+      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_avengers-infinity-war.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90299"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"idUCOsjE0HrN79WvMRKsSh0Mj9IbW29sXw1F5H108Mo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 10:07:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jpugb4bwvc"
+        },
+        {
+          "Name": "label",
+          "Value": "img/personajes/img_icon_avengers-infinity-war.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-idUCOsjE0HrN79WvMRKsSh0Mj9IbW29sXw1F5H108Mo="
+        }
+      ]
+    },
+    {
+      "Route": "img/personajes/img_icon_avengers-infinity-war.png",
+      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_avengers-infinity-war.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90299"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"idUCOsjE0HrN79WvMRKsSh0Mj9IbW29sXw1F5H108Mo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 10:07:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-idUCOsjE0HrN79WvMRKsSh0Mj9IbW29sXw1F5H108Mo="
+        }
+      ]
+    },
+    {
+      "Route": "img/personajes/img_icon_blood-kariudo.png",
+      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_blood-kariudo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98837"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eyKsq+cCEWM+tSZJFxB+LXyjFgnuEHYVBJUquOVYE+8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 10:06:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eyKsq+cCEWM+tSZJFxB+LXyjFgnuEHYVBJUquOVYE+8="
+        }
+      ]
+    },
+    {
+      "Route": "img/personajes/img_icon_blood-kariudo.z6cbc98d7m.png",
+      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_blood-kariudo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98837"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eyKsq+cCEWM+tSZJFxB+LXyjFgnuEHYVBJUquOVYE+8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 10:06:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z6cbc98d7m"
+        },
+        {
+          "Name": "label",
+          "Value": "img/personajes/img_icon_blood-kariudo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eyKsq+cCEWM+tSZJFxB+LXyjFgnuEHYVBJUquOVYE+8="
+        }
+      ]
+    },
+    {
+      "Route": "img/personajes/img_icon_blood-shield.nclz7ftr2s.png",
+      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_blood-shield.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KRZMtwbZq3Kx9S1MvAuj5vDDjszW5ZUzWORdUikP/Lw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 10:07:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nclz7ftr2s"
+        },
+        {
+          "Name": "label",
+          "Value": "img/personajes/img_icon_blood-shield.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KRZMtwbZq3Kx9S1MvAuj5vDDjszW5ZUzWORdUikP/Lw="
+        }
+      ]
+    },
+    {
+      "Route": "img/personajes/img_icon_blood-shield.png",
+      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_blood-shield.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KRZMtwbZq3Kx9S1MvAuj5vDDjszW5ZUzWORdUikP/Lw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 10:07:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KRZMtwbZq3Kx9S1MvAuj5vDDjszW5ZUzWORdUikP/Lw="
+        }
+      ]
+    },
+    {
+      "Route": "img/personajes/img_icon_blood-soldier.jt2osc1jn5.png",
+      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_blood-soldier.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R0CHpG3s2tU8lh0zXXb6U8VmuSy+yWXYshZZPrv+fOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 10:06:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jt2osc1jn5"
+        },
+        {
+          "Name": "label",
+          "Value": "img/personajes/img_icon_blood-soldier.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R0CHpG3s2tU8lh0zXXb6U8VmuSy+yWXYshZZPrv+fOI="
+        }
+      ]
+    },
+    {
+      "Route": "img/personajes/img_icon_blood-soldier.png",
+      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_blood-soldier.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R0CHpG3s2tU8lh0zXXb6U8VmuSy+yWXYshZZPrv+fOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 10:06:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R0CHpG3s2tU8lh0zXXb6U8VmuSy+yWXYshZZPrv+fOI="
+        }
+      ]
+    },
+    {
+      "Route": "img/personajes/img_icon_blood-soul.png",
+      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_blood-soul.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"shDmjXwg7PAmBG501YNPU0GiiImJC5tJWHuEdq9BMrw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 10:07:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-shDmjXwg7PAmBG501YNPU0GiiImJC5tJWHuEdq9BMrw="
+        }
+      ]
+    },
+    {
+      "Route": "img/personajes/img_icon_blood-soul.qid1itf1f1.png",
+      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_blood-soul.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"shDmjXwg7PAmBG501YNPU0GiiImJC5tJWHuEdq9BMrw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 10:07:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qid1itf1f1"
+        },
+        {
+          "Name": "label",
+          "Value": "img/personajes/img_icon_blood-soul.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-shDmjXwg7PAmBG501YNPU0GiiImJC5tJWHuEdq9BMrw="
+        }
+      ]
+    },
+    {
+      "Route": "img/personajes/img_icon_marvels-spider-man-2.3errnhc5a4.png",
+      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_marvels-spider-man-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"leGTfe/l4RX/pNc5lo9Wis7UCda7Z+u5F3M2hOGMXbA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 10:07:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3errnhc5a4"
+        },
+        {
+          "Name": "label",
+          "Value": "img/personajes/img_icon_marvels-spider-man-2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-leGTfe/l4RX/pNc5lo9Wis7UCda7Z+u5F3M2hOGMXbA="
+        }
+      ]
+    },
+    {
+      "Route": "img/personajes/img_icon_marvels-spider-man-2.png",
+      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_marvels-spider-man-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"leGTfe/l4RX/pNc5lo9Wis7UCda7Z+u5F3M2hOGMXbA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 10:07:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-leGTfe/l4RX/pNc5lo9Wis7UCda7Z+u5F3M2hOGMXbA="
         }
       ]
     },
@@ -41462,6 +42101,88 @@
       ]
     },
     {
+      "Route": "img/rivals.kbys6dc8gu.svg",
+      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\rivals.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "532649"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QIkoER3ryhTd4oohlCHXxBbUMa8fmZ/R7EkzuzaSeD8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 09:56:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kbys6dc8gu"
+        },
+        {
+          "Name": "label",
+          "Value": "img/rivals.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QIkoER3ryhTd4oohlCHXxBbUMa8fmZ/R7EkzuzaSeD8="
+        }
+      ]
+    },
+    {
+      "Route": "img/rivals.svg",
+      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\rivals.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "532649"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QIkoER3ryhTd4oohlCHXxBbUMa8fmZ/R7EkzuzaSeD8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 09:56:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QIkoER3ryhTd4oohlCHXxBbUMa8fmZ/R7EkzuzaSeD8="
+        }
+      ]
+    },
+    {
       "Route": "img/user.svg",
       "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\user.svg",
       "Selectors": [],
@@ -41566,7 +42287,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:21:49 GMT"
+          "Value": "Sun, 09 Feb 2025 09:45:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -41611,7 +42332,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:21:49 GMT"
+          "Value": "Sun, 09 Feb 2025 09:45:23 GMT"
         },
         {
           "Name": "Cache-Control",

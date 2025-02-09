@@ -65,6 +65,30 @@
       "PackagePath": "staticwebassets\\img\\logo.svg"
     },
     {
+      "Id": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_avengers-infinity-war.png",
+      "PackagePath": "staticwebassets\\img\\personajes\\img_icon_avengers-infinity-war.png"
+    },
+    {
+      "Id": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_blood-kariudo.png",
+      "PackagePath": "staticwebassets\\img\\personajes\\img_icon_blood-kariudo.png"
+    },
+    {
+      "Id": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_blood-shield.png",
+      "PackagePath": "staticwebassets\\img\\personajes\\img_icon_blood-shield.png"
+    },
+    {
+      "Id": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_blood-soldier.png",
+      "PackagePath": "staticwebassets\\img\\personajes\\img_icon_blood-soldier.png"
+    },
+    {
+      "Id": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_blood-soul.png",
+      "PackagePath": "staticwebassets\\img\\personajes\\img_icon_blood-soul.png"
+    },
+    {
+      "Id": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_marvels-spider-man-2.png",
+      "PackagePath": "staticwebassets\\img\\personajes\\img_icon_marvels-spider-man-2.png"
+    },
+    {
       "Id": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\pizza-slice.svg",
       "PackagePath": "staticwebassets\\img\\pizza-slice.svg"
     },
@@ -99,6 +123,10 @@
     {
       "Id": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\pizzas\\salad.jpg",
       "PackagePath": "staticwebassets\\img\\pizzas\\salad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\rivals.svg",
+      "PackagePath": "staticwebassets\\img\\rivals.svg"
     },
     {
       "Id": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\user.svg",
