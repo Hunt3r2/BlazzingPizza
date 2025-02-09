@@ -10,6 +10,10 @@ public class Pizza
     public const int DefaultSize = 12;
     public const int MinimumSize = 9;
     public const int MaximumSize = 17;
+    public List<PizzaTopping> Toppings { get; set; } = new();
+
+    //Para donar
+    public bool Donar { get; set; }
 
     public int Id { get; set; }
 
@@ -21,7 +25,6 @@ public class Pizza
 
     public int Size { get; set; }
 
-    public List<PizzaTopping> Toppings { get; set; } = new();
 
     public decimal GetBasePrice()
     {
@@ -37,7 +40,19 @@ public class Pizza
 
     public string GetFormattedTotalPrice()
     {
-        return GetTotalPrice().ToString("0.00");
+        decimal precioBase = GetBasePrice();
+        decimal precioComplementos = Toppings.Sum(t => t.Topping!.Price);
+
+        //si el usuario ha optado por donar, se añade 1€ al precio
+        if (Donar)
+        {
+            //aumentar el precio en 1€ si se dona
+            precioBase += 1.0m; 
+        }
+
+        // Retornamos el precio total formateado
+        decimal totalPrice = precioBase + precioComplementos;
+        return totalPrice.ToString("0.00");
     }
 }
 

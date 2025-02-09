@@ -53,8 +53,16 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\bici.svg",
+      "PackagePath": "staticwebassets\\img\\bici.svg"
+    },
+    {
       "Id": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\bike.svg",
       "PackagePath": "staticwebassets\\img\\bike.svg"
+    },
+    {
+      "Id": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\carrito.svg",
+      "PackagePath": "staticwebassets\\img\\carrito.svg"
     },
     {
       "Id": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\icon-512.png",
@@ -85,8 +93,20 @@
       "PackagePath": "staticwebassets\\img\\personajes\\img_icon_blood-soul.png"
     },
     {
+      "Id": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_lions-gaze.png",
+      "PackagePath": "staticwebassets\\img\\personajes\\img_icon_lions-gaze.png"
+    },
+    {
+      "Id": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_loki-season-2.png",
+      "PackagePath": "staticwebassets\\img\\personajes\\img_icon_loki-season-2.png"
+    },
+    {
       "Id": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_marvels-spider-man-2.png",
       "PackagePath": "staticwebassets\\img\\personajes\\img_icon_marvels-spider-man-2.png"
+    },
+    {
+      "Id": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\personajes\\img_icon_snow-symbiote.png",
+      "PackagePath": "staticwebassets\\img\\personajes\\img_icon_snow-symbiote.png"
     },
     {
       "Id": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\pizza-slice.svg",
@@ -123,6 +143,10 @@
     {
       "Id": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\pizzas\\salad.jpg",
       "PackagePath": "staticwebassets\\img\\pizzas\\salad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\rivals.png",
+      "PackagePath": "staticwebassets\\img\\rivals.png"
     },
     {
       "Id": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\img\\rivals.svg",

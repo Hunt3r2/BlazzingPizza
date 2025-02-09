@@ -1,9 +1,9 @@
 {
-  "short_name": "Blazing Pizza",
-  "name": "Blazing Pizza",
+  "short_name": "Rivals",
+  "name": "Rivals",
   "icons": [
     {
-      "src": "img/icon-512.png",
+      "src": "img/rivals.png",
       "type": "image/png",
       "sizes": "512x512"
     }

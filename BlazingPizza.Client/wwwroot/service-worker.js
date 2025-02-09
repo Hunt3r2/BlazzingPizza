@@ -12,9 +12,9 @@ self.addEventListener('fetch', event => {
 self.addEventListener('push', event => {
     const payload = event.data.json();
     event.waitUntil(
-        self.registration.showNotification('Blazing Pizza', {
+        self.registration.showNotification('Rivals', {
             body: payload.message,
-            icon: 'img/icon-512.png',
+            icon: 'img/rivals.svg',
             vibrate: [100, 50, 100],
             data: { url: payload.url }
         })
