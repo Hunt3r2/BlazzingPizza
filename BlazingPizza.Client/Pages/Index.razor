@@ -77,6 +77,7 @@
         }
     }
 
+    //codigo para el modo oscuro
     private async Task ActivarModoOscuro()
     {
         esModoOscuro = !esModoOscuro;
@@ -84,13 +85,11 @@
         {
             await JS.InvokeVoidAsync("document.body.classList.add", "modo-oscuro");
             await JS.InvokeVoidAsync("localStorage.setItem", "modoOscuro", "true");
-            Console.WriteLine("Modo oscuro activado");
         }
         else
         {
             await JS.InvokeVoidAsync("document.body.classList.remove", "modo-oscuro");
             await JS.InvokeVoidAsync("localStorage.setItem", "modoOscuro", "false");
-            Console.WriteLine("Modo oscuro desactivado");
         }
     }
 
