@@ -34,8 +34,11 @@ public class Pizza
 
     public decimal GetTotalPrice()
     {
-        if (Toppings.Any(t => t.Topping is null)) throw new NullReferenceException($"{nameof(Toppings)} contained null when calculating the Total Price.");
-        return GetBasePrice() + Toppings.Sum(t => t.Topping!.Price);
+        var precio = Special?.BasePrice ?? 0;
+        precio += Toppings.Sum(t => t.Topping?.Price ?? 0);
+        precio += Size switch { 32 => 2, 40 => 4, _ => 0 };
+        precio += Donar ? 1 : 0;
+        return precio;
     }
 
     public string GetFormattedTotalPrice()
@@ -50,7 +53,7 @@ public class Pizza
             precioBase += 1.0m; 
         }
 
-        // Retornamos el precio total formateado
+        //el precio total formateado
         decimal totalPrice = precioBase + precioComplementos;
         return totalPrice.ToString("0.00");
     }

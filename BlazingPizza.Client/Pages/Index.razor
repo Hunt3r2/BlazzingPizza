@@ -28,6 +28,7 @@
 
 <div class="sidebar">
     <button class="btn btn-secondary" @onclick="ActivarModoOscuro">Activar modo oscuro</button>
+    <button id="cambioContraste" @onclick="CambiarContraste">Modo Alto Contraste</button>
     @if (Order.Pizzas.Any())
     {
         <div class="order-contents">
@@ -53,10 +54,9 @@
 </div>
 
 <TemplatedDialog Show="OrderState.ShowingConfigureDialog">
-    <ConfigurePizzaDialog
-        Pizza="OrderState.ConfiguringPizza"
-        OnCancel="OrderState.CancelConfigurePizzaDialog"
-        OnConfirm="OrderState.ConfirmConfigurePizzaDialog" />
+    <ConfigurePizzaDialog Pizza="OrderState.ConfiguringPizza"
+                          OnCancel="OrderState.CancelConfigurePizzaDialog"
+                          OnConfirm="OrderState.ConfirmConfigurePizzaDialog" />
 </TemplatedDialog>
 
 @code {
@@ -75,9 +75,16 @@
             esModoOscuro = true;
             await JS.InvokeVoidAsync("document.body.classList.add", "modo-oscuro");
         }
+
+        var altoContraste = await JS.InvokeAsync<string>("localStorage.getItem", "altoContraste");
+        if (altoContraste == "true")
+        {
+            esAltoContraste = true;
+            await JS.InvokeVoidAsync("document.body.classList.add", "alto-contraste");
+        }
     }
 
-    //codigo para el modo oscuro
+    //para activar el modo oscuro
     private async Task ActivarModoOscuro()
     {
         esModoOscuro = !esModoOscuro;
@@ -93,6 +100,23 @@
         }
     }
 
+    //para activar el modo alto contraste
+    private bool esAltoContraste = false;
+
+    private async Task CambiarContraste()
+    {
+        esAltoContraste = !esAltoContraste;
+        await JS.InvokeVoidAsync("localStorage.setItem", "altoContraste", esAltoContraste.ToString().ToLower());
+
+        if (esAltoContraste)
+        {
+            await JS.InvokeVoidAsync("document.body.classList.add", "alto-contraste");
+        }
+        else
+        {
+            await JS.InvokeVoidAsync("document.body.classList.remove", "alto-contraste");
+        }
+    }
 
     async Task RemovePizza(Pizza configuredPizza)
     {

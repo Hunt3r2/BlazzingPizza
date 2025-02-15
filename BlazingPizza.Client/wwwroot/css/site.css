@@ -309,7 +309,7 @@ form {
 }
 
     .item-price::before {
-        content: '£';
+        content: '€';
         font-weight: 100;
         margin-right: 0.3rem;
     }
@@ -456,7 +456,7 @@ form {
 }
 
 .dialog .topping-price::before {
-    content: '£';
+    content: '€';
 }
 
 .delete-topping {
@@ -764,8 +764,9 @@ input[type=range] {
     color: #e0e0e0; /* Texto oscuro */
 }
 
+    /*Fondo oscuro barra de arriba*/
     .modo-oscuro .top-bar {
-        background-color: #1c1c1c; /* Fondo oscuro barra de navegación */
+        background-color: #1c1c1c; 
         background-image: linear-gradient(rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.25) 25%, rgba(0, 0, 0, 0) 70%);
     }
 
@@ -773,8 +774,9 @@ input[type=range] {
         filter: brightness(0) invert(1);
     }
 
+    /* Fondo oscuro */
     .modo-oscuro .content {
-        background-color: #121212; /* Fondo oscuro */
+        background-color: #121212; 
     }
 
     .modo-oscuro .main {
@@ -796,45 +798,47 @@ input[type=range] {
         }
 
     .modo-oscuro .user-info {
-        color: #e0e0e0; /* Texto claro en la info del usuario */
+        color: #e0e0e0;
     }
 
     .modo-oscuro .cart-item {
-        background-color: #444444; /* Fondo oscuro para los ítems del carrito */
+        background-color: #444444;
     }
 
     .modo-oscuro .delete-item {
-        color: #fff2cc; /* Amarillo claro para el botón de eliminar */
+        color: #fff2cc; 
     }
 
     .modo-oscuro .dialog {
-        background-color: #2c2c2c; /* Fondo oscuro para los diálogos */
-        color: #e0e0e0; /* Texto claro en los diálogos */
+        background-color: #2c2c2c;
+        /*Texto claro en los diálogos*/
+        color: #e0e0e0;
     }
 
     .modo-oscuro .dialog-title {
-        background-color: #444; /* Fondo más oscuro para el título del diálogo */
+        background-color: #444
     }
 
     .modo-oscuro .dialog-body {
-        color: #e0e0e0; /* Texto claro en el cuerpo del diálogo */
+        color: #e0e0e0;
     }
 
     .modo-oscuro .track-order-title {
-        background-color: #555; /* Fondo para el título de seguimiento de pedido */
+        background-color: #555;
     }
 
     .modo-oscuro .track-order-details {
-        color: #e0e0e0; /* Texto claro en el seguimiento de pedido */
+        color: #e0e0e0;
     }
 
     .modo-oscuro .track-order-map {
-        background-color: #121212; /* Fondo oscuro para el mapa de seguimiento */
+        background-color: #121212;
     }
 
     .modo-oscuro .sign-in {
-        border: 1.5px solid #e0e0e0; /* Borde claro para el botón de inicio de sesión */
-        color: #e0e0e0; /* Texto claro */
+        /*Borde claro para el botón de inicio de sesión y texto claro*/
+        border: 1.5px solid #e0e0e0;
+        color: #e0e0e0;
     }
 
         .modo-oscuro .sign-in:hover {
@@ -844,11 +848,11 @@ input[type=range] {
         }
 
     .modo-oscuro input[type=range] {
-        background: #444; /* Fondo oscuro para los sliders */
+        background: #444;
     }
 
         .modo-oscuro input[type=range]::-webkit-slider-runnable-track {
-            background: #666; /* Fondo oscuro para el track del slider */
+            background: #666;
         }
 
         .modo-oscuro input[type=range]::-webkit-slider-thumb {
@@ -856,19 +860,128 @@ input[type=range] {
         }
 
     .modo-oscuro .form-message {
-        color: red; /* Mensajes de error en rojo */
+        /*Mensajes de error en rojo*/
+        color: red;
     }
 
     .modo-oscuro .validation-message {
-        color: red; /* Mensajes de validación en rojo */
+        color: red;
     }
 
-    /* Estilo para las clases de transición de modo oscuro */
     .modo-oscuro .loading-bar::after {
-        background-color: #dc105a; /* Color de la barra de carga */
+        /*Color de la barra de carga*/
+        background-color: #dc105a;
     }
 
     .modo-oscuro .order-total {
         background: #444;
     }
 
+/* Modo Alto Contraste */
+.alto-contraste {
+    background-color: black;
+    color: white;
+}
+
+    .alto-contraste .top-bar {
+        background-color: black;
+        color: yellow;
+    }
+
+    .alto-contraste .logo > img {
+        filter: brightness(0) invert(1);
+    }
+
+    .alto-contraste .content {
+        background-color: black;
+    }
+
+    .alto-contraste .main {
+        background: black;
+        color: white;
+    }
+
+    .alto-contraste .nav-tab {
+        background-color: yellow;
+        color: black;
+    }
+
+        .alto-contraste .nav-tab:hover {
+            background-color: white;
+            color: black;
+        }
+
+        .alto-contraste .nav-tab.active {
+            background-color: white;
+            color: black;
+        }
+
+    .alto-contraste .user-info {
+        color: yellow;
+    }
+
+    .alto-contraste .cart-item {
+        background-color: black;
+        color: yellow;
+    }
+
+    .alto-contraste .delete-item {
+        color: yellow;
+    }
+
+    .alto-contraste .dialog {
+        background-color: black;
+        color: yellow;
+    }
+
+    .alto-contraste .dialog-title {
+        background-color: black;
+        color: yellow;
+    }
+
+    .alto-contraste .dialog-body {
+        color: yellow;
+    }
+
+    .alto-contraste .track-order-title {
+        background-color: black;
+        color: yellow;
+    }
+
+    .alto-contraste .track-order-details {
+        color: yellow;
+    }
+
+    .alto-contraste .track-order-map {
+        background-color: black;
+    }
+
+    .alto-contraste .sign-in {
+        border: 1.5px solid yellow;
+        color: yellow;
+    }
+
+        .alto-contraste .sign-in:hover {
+            background-color: yellow;
+            color: black;
+        }
+
+    .alto-contraste input[type=range] {
+        background: black;
+    }
+
+        .alto-contraste input[type=range]::-webkit-slider-runnable-track {
+            background: yellow;
+        }
+
+        .alto-contraste input[type=range]::-webkit-slider-thumb {
+            background: yellow;
+        }
+
+    .alto-contraste .form-message {
+        color: red;
+    }
+
+    .alto-contraste .validation-message {
+        color: red;
+    }

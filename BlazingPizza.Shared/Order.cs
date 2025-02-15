@@ -18,7 +18,10 @@ public class Order
 
     public List<Pizza> Pizzas { get; set; } = new List<Pizza>();
 
-    public decimal GetTotalPrice() => Pizzas.Sum(p => p.GetTotalPrice());
+    public decimal GetTotalPrice()
+    {
+        return Pizzas.Sum(p => p.GetTotalPrice()); // Esto ya incluye las donaciones
+    }
 
     public string GetFormattedTotalPrice() => GetTotalPrice().ToString("0.00");
 }

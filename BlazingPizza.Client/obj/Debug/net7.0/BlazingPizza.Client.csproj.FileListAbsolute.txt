@@ -1736,8 +1736,8 @@ C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\Bla
 C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.Client\obj\Debug\net7.0\refint\BlazingPizza.Client.dll
 C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.pdb
 C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.Client\obj\Debug\net7.0\ref\BlazingPizza.Client.dll
-C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.Client\obj\Debug\net7.0\compressed\0swlxdupd6-en4ysx0zvf.gz
-C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.Client\obj\Debug\net7.0\compressed\neqd3zeg53-vw8a529df2.gz
-C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.Client\obj\Debug\net7.0\compressed\zvvky172e7-3notadiuy1.gz
-C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.Client\obj\Debug\net7.0\compressed\fjmgmp7c3f-78t3j3n6yd.gz
-C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.Client\obj\Debug\net7.0\compressed\opzk2anv25-ts6k98xwe2.gz
+C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.Client\obj\Debug\net7.0\compressed\zvvky172e7-uprn7l237m.gz
+C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.Client\obj\Debug\net7.0\compressed\fjmgmp7c3f-a04o88v52l.gz
+C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.Client\obj\Debug\net7.0\compressed\0swlxdupd6-6zkcymplff.gz
+C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.Client\obj\Debug\net7.0\compressed\neqd3zeg53-gxm58jz3e4.gz
+C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.Client\obj\Debug\net7.0\compressed\opzk2anv25-4mit3e8lpp.gz

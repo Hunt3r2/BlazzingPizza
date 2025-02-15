@@ -9,7 +9,7 @@
     <!-- Opción para elegir si quiere donar 1€ -->
     <div>
         <label>¿Quieres donar 1€?</label>
-        <input type="checkbox" id="donation" @bind="Pizza.Donar" />
+        <input type="checkbox" id="donacion" @bind="Pizza.Donar" />
         <span class="donacion-label">
             Donar 1€ (¡Gracias por tu ayuda!)
         </span>
@@ -32,7 +32,7 @@
                 <option value="-1" disabled selected>(select)</option>
                 @for (var i = 0; i < toppings.Count; i++)
                 {
-                    <option value="@i">@toppings[i].Name - (£@(toppings[i].GetFormattedPrice()))</option>
+                    <option value="@i">@toppings[i].Name - (€@(toppings[i].GetFormattedPrice()))</option>
                 }
             </select>
         }
