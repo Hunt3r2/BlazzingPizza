@@ -112,7 +112,6 @@ C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\Bla
 C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.Server\obj\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazingPizza.Server.props
 C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.Server\obj\Release\net7.0\staticwebassets\msbuild.buildTransitive.BlazingPizza.Server.props
 C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.Server\obj\Release\net7.0\staticwebassets.pack.json
-C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.Server\obj\Release\net7.0\staticwebassets.upToDateCheck.txt
 C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.Server\obj\Release\net7.0\BlazingP.DAA8278D.Up2Date
 C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.Server\obj\Release\net7.0\BlazingPizza.Server.dll
 C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.Server\obj\Release\net7.0\refint\BlazingPizza.Server.dll

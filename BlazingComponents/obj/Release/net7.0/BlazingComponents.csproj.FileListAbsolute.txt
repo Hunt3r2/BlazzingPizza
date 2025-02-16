@@ -18,7 +18,6 @@ C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\Bla
 C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingComponents\obj\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazingComponents.props
 C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingComponents\obj\Release\net7.0\staticwebassets\msbuild.buildTransitive.BlazingComponents.props
 C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingComponents\obj\Release\net7.0\staticwebassets.pack.json
-C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingComponents\obj\Release\net7.0\staticwebassets.upToDateCheck.txt
 C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingComponents\obj\Release\net7.0\BlazingComponents.dll
 C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingComponents\obj\Release\net7.0\refint\BlazingComponents.dll
 C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingComponents\obj\Release\net7.0\BlazingComponents.pdb

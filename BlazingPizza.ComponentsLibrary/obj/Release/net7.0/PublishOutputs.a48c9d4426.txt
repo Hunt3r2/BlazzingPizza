@@ -1,0 +1,15 @@
+C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.ComponentsLibrary\bin\Release\net7.0\publish\BlazingPizza.ComponentsLibrary.dll
+C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.ComponentsLibrary\bin\Release\net7.0\publish\BlazingPizza.ComponentsLibrary.deps.json
+C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.ComponentsLibrary\bin\Release\net7.0\publish\BlazingPizza.ComponentsLibrary.pdb
+C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.ComponentsLibrary\bin\Release\net7.0\publish\Microsoft.AspNetCore.Authorization.dll
+C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.ComponentsLibrary\bin\Release\net7.0\publish\Microsoft.AspNetCore.Components.dll
+C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.ComponentsLibrary\bin\Release\net7.0\publish\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.ComponentsLibrary\bin\Release\net7.0\publish\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.ComponentsLibrary\bin\Release\net7.0\publish\Microsoft.AspNetCore.Metadata.dll
+C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.ComponentsLibrary\bin\Release\net7.0\publish\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.ComponentsLibrary\bin\Release\net7.0\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.ComponentsLibrary\bin\Release\net7.0\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.ComponentsLibrary\bin\Release\net7.0\publish\Microsoft.Extensions.Options.dll
+C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.ComponentsLibrary\bin\Release\net7.0\publish\Microsoft.Extensions.Primitives.dll
+C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.ComponentsLibrary\bin\Release\net7.0\publish\Microsoft.JSInterop.dll
+C:\Users\david\Downloads\blazor-workshop-main (1)\blazor-workshop-main\Pizza\BlazingPizza.ComponentsLibrary\bin\Release\net7.0\publish\System.IO.Pipelines.dll

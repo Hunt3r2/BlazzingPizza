@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wOwKX58z52a7YWo9ZbSrzQhu19MN9CcklfgLCQZQ6po=",
+  "Hash": "UQdcWXS+SvJhCxT/24JozfEieiRKGDWtDcbs9Kcagmw=",
   "Source": "BlazingPizza.ComponentsLibrary",
   "BasePath": "_content/BlazingPizza.ComponentsLibrary",
   "Mode": "Default",
@@ -38,27 +38,6 @@
       "OriginalItemSpec": "wwwroot\\deliveryMap.js"
     },
     {
-      "Identity": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers.png",
-      "SourceId": "BlazingPizza.ComponentsLibrary",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
-      "BasePath": "_content/BlazingPizza.ComponentsLibrary",
-      "RelativePath": "leaflet/images/layers#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ptvguihtoq",
-      "Integrity": "Hbvp0CjikvNvy6j4s6KNXokydU/CIVuaxp5M3s9RB8Y=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\leaflet\\images\\layers.png"
-    },
-    {
       "Identity": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers-2x.png",
       "SourceId": "BlazingPizza.ComponentsLibrary",
       "SourceType": "Discovered",
@@ -80,12 +59,12 @@
       "OriginalItemSpec": "wwwroot\\leaflet\\images\\layers-2x.png"
     },
     {
-      "Identity": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon.png",
+      "Identity": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers.png",
       "SourceId": "BlazingPizza.ComponentsLibrary",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
       "BasePath": "_content/BlazingPizza.ComponentsLibrary",
-      "RelativePath": "leaflet/images/marker-icon#[.{fingerprint}]?.png",
+      "RelativePath": "leaflet/images/layers#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -94,11 +73,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "vq9wvlav5t",
-      "Integrity": "V0w6XMqF9BFAhbaEFZbWLwDXyJLHsD8oy/owHesdxDc=",
+      "Fingerprint": "ptvguihtoq",
+      "Integrity": "Hbvp0CjikvNvy6j4s6KNXokydU/CIVuaxp5M3s9RB8Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\leaflet\\images\\marker-icon.png"
+      "OriginalItemSpec": "wwwroot\\leaflet\\images\\layers.png"
     },
     {
       "Identity": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon-2x.png",
@@ -120,6 +99,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\leaflet\\images\\marker-icon-2x.png"
+    },
+    {
+      "Identity": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon.png",
+      "SourceId": "BlazingPizza.ComponentsLibrary",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
+      "BasePath": "_content/BlazingPizza.ComponentsLibrary",
+      "RelativePath": "leaflet/images/marker-icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vq9wvlav5t",
+      "Integrity": "V0w6XMqF9BFAhbaEFZbWLwDXyJLHsD8oy/owHesdxDc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\leaflet\\images\\marker-icon.png"
     },
     {
       "Identity": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-shadow.png",
@@ -311,88 +311,6 @@
       ]
     },
     {
-      "Route": "leaflet/images/layers.png",
-      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "696"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Hbvp0CjikvNvy6j4s6KNXokydU/CIVuaxp5M3s9RB8Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:15:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Hbvp0CjikvNvy6j4s6KNXokydU/CIVuaxp5M3s9RB8Y="
-        }
-      ]
-    },
-    {
-      "Route": "leaflet/images/layers.ptvguihtoq.png",
-      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "696"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Hbvp0CjikvNvy6j4s6KNXokydU/CIVuaxp5M3s9RB8Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 19:15:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ptvguihtoq"
-        },
-        {
-          "Name": "label",
-          "Value": "leaflet/images/layers.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Hbvp0CjikvNvy6j4s6KNXokydU/CIVuaxp5M3s9RB8Y="
-        }
-      ]
-    },
-    {
       "Route": "leaflet/images/layers-2x.ef5uc09gvw.png",
       "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers-2x.png",
       "Selectors": [],
@@ -475,8 +393,8 @@
       ]
     },
     {
-      "Route": "leaflet/images/marker-icon.png",
-      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon.png",
+      "Route": "leaflet/images/layers.png",
+      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -485,7 +403,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1466"
+          "Value": "696"
         },
         {
           "Name": "Content-Type",
@@ -493,7 +411,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"V0w6XMqF9BFAhbaEFZbWLwDXyJLHsD8oy/owHesdxDc=\""
+          "Value": "\"Hbvp0CjikvNvy6j4s6KNXokydU/CIVuaxp5M3s9RB8Y=\""
         },
         {
           "Name": "Last-Modified",
@@ -507,13 +425,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-V0w6XMqF9BFAhbaEFZbWLwDXyJLHsD8oy/owHesdxDc="
+          "Value": "sha256-Hbvp0CjikvNvy6j4s6KNXokydU/CIVuaxp5M3s9RB8Y="
         }
       ]
     },
     {
-      "Route": "leaflet/images/marker-icon.vq9wvlav5t.png",
-      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon.png",
+      "Route": "leaflet/images/layers.ptvguihtoq.png",
+      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -522,7 +440,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1466"
+          "Value": "696"
         },
         {
           "Name": "Content-Type",
@@ -530,7 +448,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"V0w6XMqF9BFAhbaEFZbWLwDXyJLHsD8oy/owHesdxDc=\""
+          "Value": "\"Hbvp0CjikvNvy6j4s6KNXokydU/CIVuaxp5M3s9RB8Y=\""
         },
         {
           "Name": "Last-Modified",
@@ -544,15 +462,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vq9wvlav5t"
+          "Value": "ptvguihtoq"
         },
         {
           "Name": "label",
-          "Value": "leaflet/images/marker-icon.png"
+          "Value": "leaflet/images/layers.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-V0w6XMqF9BFAhbaEFZbWLwDXyJLHsD8oy/owHesdxDc="
+          "Value": "sha256-Hbvp0CjikvNvy6j4s6KNXokydU/CIVuaxp5M3s9RB8Y="
         }
       ]
     },
@@ -635,6 +553,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-ABecTB7oMNOhCEEq4NKU9Vd2z+sIXGASmjmqb8SuJSg="
+        }
+      ]
+    },
+    {
+      "Route": "leaflet/images/marker-icon.png",
+      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1466"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V0w6XMqF9BFAhbaEFZbWLwDXyJLHsD8oy/owHesdxDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Feb 2025 19:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V0w6XMqF9BFAhbaEFZbWLwDXyJLHsD8oy/owHesdxDc="
+        }
+      ]
+    },
+    {
+      "Route": "leaflet/images/marker-icon.vq9wvlav5t.png",
+      "AssetFile": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1466"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V0w6XMqF9BFAhbaEFZbWLwDXyJLHsD8oy/owHesdxDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Feb 2025 19:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vq9wvlav5t"
+        },
+        {
+          "Name": "label",
+          "Value": "leaflet/images/marker-icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V0w6XMqF9BFAhbaEFZbWLwDXyJLHsD8oy/owHesdxDc="
         }
       ]
     },
