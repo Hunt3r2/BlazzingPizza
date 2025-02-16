@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazingPizza.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+055088cb133146b667361567f948d282b41e17ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b0067275c4d34eb57708cbeaaef6f14f18a6581")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazingPizza.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazingPizza.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

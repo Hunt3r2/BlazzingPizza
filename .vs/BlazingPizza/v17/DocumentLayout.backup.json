@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|c:\\users\\david\\downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\pizza\\blazingpizza.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|solutionrelative:blazingpizza.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{42410116-06C1-4D19-B5FC-BD1F85F918B3}|BlazingPizza.Shared\\BlazingPizza.Shared.csproj|c:\\users\\david\\downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\pizza\\blazingpizza.shared\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42410116-06C1-4D19-B5FC-BD1F85F918B3}|BlazingPizza.Shared\\BlazingPizza.Shared.csproj|solutionrelative:blazingpizza.shared\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|c:\\users\\david\\downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\pizza\\blazingpizza.client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|solutionrelative:blazingpizza.client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|c:\\users\\david\\downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\pizza\\blazingpizza.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|solutionrelative:blazingpizza.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|c:\\users\\david\\downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\pizza\\blazingpizza.client\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -103,8 +103,7 @@
               "ViewState": "AgIAAGkDAAAAAAAAAAAAwCMDAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-02-08T19:42:10.431Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -116,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Shared\\Order.cs",
               "RelativeDocumentMoniker": "BlazingPizza.Shared\\Order.cs",
@@ -124,12 +123,11 @@
               "RelativeToolTip": "BlazingPizza.Shared\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T17:44:04.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T17:44:04.743Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "OrderReview.razor",
               "DocumentMoniker": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\Shared\\OrderReview.razor",
               "RelativeDocumentMoniker": "BlazingPizza.Client\\Shared\\OrderReview.razor",
@@ -137,12 +135,11 @@
               "RelativeToolTip": "BlazingPizza.Client\\Shared\\OrderReview.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-15T17:40:56.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T17:40:56.422Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MyOrders.razor",
               "DocumentMoniker": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\Pages\\MyOrders.razor",
               "RelativeDocumentMoniker": "BlazingPizza.Client\\Pages\\MyOrders.razor",
@@ -150,18 +147,17 @@
               "RelativeToolTip": "BlazingPizza.Client\\Pages\\MyOrders.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-15T17:40:10.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T17:40:10.771Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "BlazingPizza.Client\\Pages\\Index.razor",
               "ToolTip": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\Pages\\Index.razor",
               "RelativeToolTip": "BlazingPizza.Client\\Pages\\Index.razor",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAAAHgAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-08T19:36:46.712Z",
               "EditorCaption": ""
@@ -176,8 +172,7 @@
               "RelativeToolTip": "BlazingPizza.ComponentsLibrary\\wwwroot\\localStorage.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-09T17:36:03.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T17:36:03.154Z"
             },
             {
               "$type": "Document",
@@ -189,12 +184,11 @@
               "RelativeToolTip": "BlazingPizza.Client\\Shared\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T17:19:41.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T17:19:41.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ConfiguredPizzaItem.razor",
               "DocumentMoniker": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\Shared\\ConfiguredPizzaItem.razor",
               "RelativeDocumentMoniker": "BlazingPizza.Client\\Shared\\ConfiguredPizzaItem.razor",
@@ -202,12 +196,11 @@
               "RelativeToolTip": "BlazingPizza.Client\\Shared\\ConfiguredPizzaItem.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T17:10:24.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T17:10:24.697Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Pizza.cs",
               "DocumentMoniker": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Shared\\Pizza.cs",
               "RelativeDocumentMoniker": "BlazingPizza.Shared\\Pizza.cs",
@@ -215,12 +208,11 @@
               "RelativeToolTip": "BlazingPizza.Shared\\Pizza.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAA9wC4AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T16:52:10.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T16:52:10.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ConfigurePizzaDialog.razor",
               "DocumentMoniker": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\Shared\\ConfigurePizzaDialog.razor",
               "RelativeDocumentMoniker": "BlazingPizza.Client\\Shared\\ConfigurePizzaDialog.razor",
@@ -228,8 +220,7 @@
               "RelativeToolTip": "BlazingPizza.Client\\Shared\\ConfigurePizzaDialog.razor",
               "ViewState": "AgIAAEIAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T16:47:21.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T16:47:21.391Z"
             },
             {
               "$type": "Document",
@@ -241,8 +232,7 @@
               "RelativeToolTip": "BlazingPizza.Client\\Pages\\Checkout.razor",
               "ViewState": "AgIAACMAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T16:46:09.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T16:46:09.613Z"
             },
             {
               "$type": "Document",
@@ -254,12 +244,11 @@
               "RelativeToolTip": "BlazingPizza.Client\\Pages\\Authentication.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T16:38:56.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T16:38:56.385Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "OrderDetails.razor",
               "DocumentMoniker": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\Pages\\OrderDetails.razor",
               "RelativeDocumentMoniker": "BlazingPizza.Client\\Pages\\OrderDetails.razor",
@@ -267,8 +256,7 @@
               "RelativeToolTip": "BlazingPizza.Client\\Pages\\OrderDetails.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T16:38:53.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T16:38:53.515Z"
             },
             {
               "$type": "Document",
@@ -304,8 +292,7 @@
               "RelativeToolTip": "BlazingComponents\\BlazingComponents.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-08T19:36:55.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T19:36:55.443Z"
             },
             {
               "$type": "Document",
@@ -317,8 +304,7 @@
               "RelativeToolTip": "BlazingPizza.Client\\BlazingPizza.Client.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-08T19:36:54.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T19:36:54.671Z"
             },
             {
               "$type": "Document",
@@ -329,12 +315,11 @@
               "ToolTip": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\BlazingPizza.Client.csproj",
               "RelativeToolTip": "BlazingPizza.Client\\BlazingPizza.Client.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-08T19:36:51.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T19:36:51.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\david\\Downloads\\blazor-workshop-main (1)\\blazor-workshop-main\\Pizza\\BlazingPizza.Client\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "BlazingPizza.Client\\wwwroot\\index.html",
@@ -342,8 +327,7 @@
               "RelativeToolTip": "BlazingPizza.Client\\wwwroot\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-08T19:36:48.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T19:36:48.787Z"
             },
             {
               "$type": "Document",
@@ -355,8 +339,7 @@
               "RelativeToolTip": "BlazingPizza.Server\\BlazingPizza.Server.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-08T19:35:14.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T19:35:14.18Z"
             }
           ]
         }
